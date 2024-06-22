@@ -1,0 +1,73 @@
+DrugName,Rating,genericName,Disease
+aspirin,9.5,aspirin systemic,Heart Attack
+clopidogrel,7.5,clopidogrel systemic,Heart Attack
+Plavix,8.5,clopidogrel systemic,Heart Attack
+metoprolol,5.3,metoprolol systemic,Heart Attack
+nitroglycerin,9.5,nitroglycerin systemic,Heart Attack
+lisinopril,4.0,lisinopril systemic,Heart Attack
+Bayer Aspirin,,aspirin systemic,Heart Attack
+Lopressor,,metoprolol systemic,Heart Attack
+Activase,,alteplase systemic,Heart Attack
+Altace,9.0,ramipril systemic,Heart Attack
+Coumadin,,warfarin systemic,Heart Attack
+ramipril,9.0,ramipril systemic,Heart Attack
+Nitrostat,,nitroglycerin systemic,Heart Attack
+warfarin,5.5,warfarin systemic,Heart Attack
+atenolol,,atenolol systemic,Heart Attack
+Ecotrin,,aspirin systemic,Heart Attack
+Zestril,,lisinopril systemic,Heart Attack
+Brilinta,3.0,ticagrelor systemic,Heart Attack
+Easprin,,aspirin systemic,Heart Attack
+enoxaparin,,enoxaparin systemic,Heart Attack
+Prinivil,,lisinopril systemic,Heart Attack
+Lovenox,,enoxaparin systemic,Heart Attack
+Arthritis Pain,10,aspirin systemic,Heart Attack
+Aspir-Low,,aspirin systemic,Heart Attack
+Bayer Aspirin Regimen,,aspirin systemic,Heart Attack
+propranolol,10,propranolol systemic,Heart Attack
+Tenormin,,atenolol systemic,Heart Attack
+Ascriptin,,aspirin systemic,Heart Attack
+Aspergum,,aspirin systemic,Heart Attack
+Ecpirin,,aspirin systemic,Heart Attack
+Entercote,,aspirin systemic,Heart Attack
+Genacote,,aspirin systemic,Heart Attack
+Halfprin,,aspirin systemic,Heart Attack
+Qbrelis,,lisinopril systemic,Heart Attack
+Toprol-XL,,metoprolol systemic,Heart Attack
+Vazalore,,aspirin systemic,Heart Attack
+Aspiritab,,aspirin systemic,Heart Attack
+Aspirtab,,aspirin systemic,Heart Attack
+Bayer Aspirin Extra Strength Plus,,aspirin systemic,Heart Attack
+heparin,,heparin systemic,Heart Attack
+Norwich Aspirin,,aspirin systemic,Heart Attack
+alteplase,,alteplase systemic,Heart Attack
+Jantoven,,warfarin systemic,Heart Attack
+Nitro-Bid,10,nitroglycerin systemic,Heart Attack
+Nitro-Dur,,nitroglycerin systemic,Heart Attack
+prasugrel,4.5,prasugrel systemic,Heart Attack
+ticagrelor,2.8,ticagrelor systemic,Heart Attack
+valsartan,,valsartan systemic,Heart Attack
+Effient,5.5,prasugrel systemic,Heart Attack
+Fragmin,,dalteparin systemic,Heart Attack
+Integrilin,,eptifibatide systemic,Heart Attack
+Nitrolingual Pumpspray,9.0,nitroglycerin systemic,Heart Attack
+perindopril,,perindopril systemic,Heart Attack
+dalteparin,,dalteparin systemic,Heart Attack
+Diovan,,valsartan systemic,Heart Attack
+eptifibatide,,eptifibatide systemic,Heart Attack
+fondaparinux,,fondaparinux systemic,Heart Attack
+magnesium chloride,,magnesium chloride systemic,Heart Attack
+Minitran,,nitroglycerin systemic,Heart Attack
+moexipril,,moexipril systemic,Heart Attack
+Nitro-Time,,nitroglycerin systemic,Heart Attack
+NitroMist,,nitroglycerin systemic,Heart Attack
+Nitro TD Patch-A,,nitroglycerin systemic,Heart Attack
+Retavase,,reteplase systemic,Heart Attack
+reteplase,0.0,reteplase systemic,Heart Attack
+tenecteplase,,tenecteplase systemic,Heart Attack
+timolol,,timolol systemic,Heart Attack
+TNKase,,tenecteplase systemic,Heart Attack
+trandolapril,2.0,trandolapril systemic,Heart Attack
+urokinase,,urokinase systemic,Heart Attack
+Chloromag,,magnesium chloride systemic,Heart Attack
+Retavase Half-Kit,,reteplase systemic,Heart Attack

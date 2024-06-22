@@ -1,0 +1,198 @@
+DrugName,Rating,genericName,Disease
+anastrozole,5.1,anastrozole systemic,breast-cancer
+tamoxifen,5.1,tamoxifen systemic,breast-cancer
+letrozole,5.3,letrozole systemic,breast-cancer
+Arimidex,5.7,anastrozole systemic,breast-cancer
+Verzenio,8.1,abemaciclib systemic,breast-cancer
+Ibrance,4.0,palbociclib systemic,breast-cancer
+exemestane,5.1,exemestane systemic,breast-cancer
+abemaciclib,8.1,abemaciclib systemic,breast-cancer
+palbociclib,4.0,palbociclib systemic,breast-cancer
+Keytruda,5.4,pembrolizumab systemic,breast-cancer
+Kisqali,8.0,ribociclib systemic,breast-cancer
+pembrolizumab,5.4,pembrolizumab systemic,breast-cancer
+Piqray,6.3,alpelisib systemic,breast-cancer
+ribociclib,6.3,ribociclib systemic,breast-cancer
+alpelisib,6.3,alpelisib systemic,breast-cancer
+Enhertu,8.3,fam-trastuzumab deruxtecan systemic,breast-cancer
+Femara,6.2,letrozole systemic,breast-cancer
+Trodelvy,8.0,sacituzumab govitecan systemic,breast-cancer
+fam-trastuzumab deruxtecan,8.3,fam-trastuzumab deruxtecan systemic,breast-cancer
+sacituzumab govitecan,8.0,sacituzumab govitecan systemic,breast-cancer
+Aromasin,4.9,exemestane systemic,breast-cancer
+Herceptin,8.2,trastuzumab systemic,breast-cancer
+Abraxane,9.7,paclitaxel protein-bound systemic,breast-cancer
+methotrexate,,methotrexate systemic,breast-cancer
+Afinitor,4.3,everolimus systemic,breast-cancer
+Taxotere,3.4,docetaxel systemic,breast-cancer
+Trexall,,methotrexate systemic,breast-cancer
+Xeloda,6.0,capecitabine systemic,breast-cancer
+cyclophosphamide,,cyclophosphamide systemic,breast-cancer
+Faslodex,4.5,fulvestrant systemic,breast-cancer
+paclitaxel,7.0,paclitaxel systemic,breast-cancer
+doxorubicin,5.0,doxorubicin systemic,breast-cancer
+Perjeta,,pertuzumab systemic,breast-cancer
+trastuzumab,8.2,trastuzumab systemic,breast-cancer
+capecitabine,5.7,capecitabine systemic,breast-cancer
+docetaxel,3.3,docetaxel systemic,breast-cancer
+everolimus,4.5,everolimus systemic,breast-cancer
+fluorouracil,,fluorouracil systemic,breast-cancer
+fulvestrant,5.0,fulvestrant systemic,breast-cancer
+Gemzar,,gemcitabine systemic,breast-cancer
+paclitaxel protein-bound,9.7,paclitaxel protein-bound systemic,breast-cancer
+Soltamox,,tamoxifen systemic,breast-cancer
+Tykerb,,lapatinib systemic,breast-cancer
+Fareston,,toremifene systemic,breast-cancer
+Halaven,0.0,eribulin systemic,breast-cancer
+letrozole / ribociclib,7.0,letrozole / ribociclib systemic,breast-cancer
+Menest,,esterified estrogens systemic,breast-cancer
+pertuzumab,,pertuzumab systemic,breast-cancer
+ado-trastuzumab emtansine,,ado-trastuzumab emtansine systemic,breast-cancer
+atezolizumab,5.5,atezolizumab systemic,breast-cancer
+bevacizumab,,bevacizumab systemic,breast-cancer
+eribulin,0.0,eribulin systemic,breast-cancer
+esterified estrogens,,esterified estrogens systemic,breast-cancer
+gemcitabine,,gemcitabine systemic,breast-cancer
+Herceptin Hylecta,10,hyaluronidase / trastuzumab systemic,breast-cancer
+Herzuma,,trastuzumab systemic,breast-cancer
+Infugem,,gemcitabine systemic,breast-cancer
+ixabepilone,,ixabepilone systemic,breast-cancer
+Ixempra,,ixabepilone systemic,breast-cancer
+Kadcyla,,ado-trastuzumab emtansine systemic,breast-cancer
+Kanjinti,,trastuzumab systemic,breast-cancer
+lapatinib,,lapatinib systemic,breast-cancer
+Lynparza,,olaparib systemic,breast-cancer
+Ogivri,,trastuzumab systemic,breast-cancer
+olaparib,,olaparib systemic,breast-cancer
+Ontruzant,,trastuzumab systemic,breast-cancer
+Phesgo,,hyaluronidase / pertuzumab / trastuzumab systemic,breast-cancer
+talazoparib,,talazoparib systemic,breast-cancer
+Tepadina,,thiotepa systemic,breast-cancer
+thiotepa,,thiotepa systemic,breast-cancer
+toremifene,8.0,toremifene systemic,breast-cancer
+Trazimera,,trastuzumab systemic,breast-cancer
+Tukysa,,tucatinib systemic,breast-cancer
+vinblastine,,vinblastine systemic,breast-cancer
+capivasertib,,capivasertib systemic,breast-cancer
+elacestrant,,elacestrant systemic,breast-cancer
+Hercessi,,trastuzumab systemic,breast-cancer
+hyaluronidase / pertuzumab / trastuzumab,,hyaluronidase / pertuzumab / trastuzumab systemic,breast-cancer
+hyaluronidase / trastuzumab,10,hyaluronidase / trastuzumab systemic,breast-cancer
+Kisqali Femara Co-Pack,,letrozole / ribociclib systemic,breast-cancer
+Orserdu,,elacestrant systemic,breast-cancer
+Talzenna,,talazoparib systemic,breast-cancer
+Truqap,,capivasertib systemic,breast-cancer
+tucatinib,,tucatinib systemic,breast-cancer
+Keytruda,4.2,pembrolizumab systemic,non-small cell lung cancer
+Tagrisso,7.1,osimertinib systemic,non-small cell lung cancer
+Opdivo,4.9,nivolumab systemic,non-small cell lung cancer
+Alimta,8.0,pemetrexed systemic,non-small cell lung cancer
+Avastin,8.0,bevacizumab systemic,non-small cell lung cancer
+nivolumab,5.2,nivolumab systemic,non-small cell lung cancer
+Imfinzi,8.0,durvalumab systemic,non-small cell lung cancer
+pembrolizumab,4.4,pembrolizumab systemic,non-small cell lung cancer
+durvalumab,6.0,durvalumab systemic,non-small cell lung cancer
+Iressa,8.9,gefitinib systemic,non-small cell lung cancer
+amivantamab,9.0,amivantamab systemic,non-small cell lung cancer
+Enhertu,8.3,fam-trastuzumab deruxtecan systemic,non-small cell lung cancer
+Rybrevant,9.0,amivantamab systemic,non-small cell lung cancer
+fam-trastuzumab deruxtecan,8.3,fam-trastuzumab deruxtecan systemic,non-small cell lung cancer
+erlotinib,8.5,erlotinib systemic,non-small cell lung cancer
+pemetrexed,9.0,pemetrexed systemic,non-small cell lung cancer
+cisplatin,,cisplatin systemic,non-small cell lung cancer
+Xalkori,9.3,crizotinib systemic,non-small cell lung cancer
+Alecensa,9.5,alectinib systemic,non-small cell lung cancer
+Gemzar,8.0,gemcitabine systemic,non-small cell lung cancer
+Taxotere,,docetaxel systemic,non-small cell lung cancer
+paclitaxel,7.0,paclitaxel systemic,non-small cell lung cancer
+Tecentriq,,atezolizumab systemic,non-small cell lung cancer
+Abraxane,1.0,paclitaxel protein-bound systemic,non-small cell lung cancer
+bevacizumab,8.0,bevacizumab systemic,non-small cell lung cancer
+gemcitabine,8.5,gemcitabine systemic,non-small cell lung cancer
+Gilotrif,10,afatinib systemic,non-small cell lung cancer
+osimertinib,7.3,osimertinib systemic,non-small cell lung cancer
+crizotinib,7.8,crizotinib systemic,non-small cell lung cancer
+gefitinib,8.9,gefitinib systemic,non-small cell lung cancer
+Navelbine,,vinorelbine systemic,non-small cell lung cancer
+methotrexate,,methotrexate systemic,non-small cell lung cancer
+Trexall,,methotrexate systemic,non-small cell lung cancer
+docetaxel,,docetaxel systemic,non-small cell lung cancer
+lorlatinib,,lorlatinib systemic,non-small cell lung cancer
+afatinib,7.7,afatinib systemic,non-small cell lung cancer
+alectinib,9.5,alectinib systemic,non-small cell lung cancer
+atezolizumab,8.5,atezolizumab systemic,non-small cell lung cancer
+Lumakras,10,sotorasib systemic,non-small cell lung cancer
+Alunbrig,,brigatinib systemic,non-small cell lung cancer
+ceritinib,5.0,ceritinib systemic,non-small cell lung cancer
+Lorbrena,,lorlatinib systemic,non-small cell lung cancer
+vinorelbine,,vinorelbine systemic,non-small cell lung cancer
+Zykadia,,ceritinib systemic,non-small cell lung cancer
+Cyramza,,ramucirumab systemic,non-small cell lung cancer
+Tafinlar,,dabrafenib systemic,non-small cell lung cancer
+brigatinib,,brigatinib systemic,non-small cell lung cancer
+capecitabine,,capecitabine systemic,non-small cell lung cancer
+Retevmo,10,selpercatinib systemic,non-small cell lung cancer
+cetuximab,,cetuximab systemic,non-small cell lung cancer
+dacomitinib,,dacomitinib systemic,non-small cell lung cancer
+Mekinist,,trametinib systemic,non-small cell lung cancer
+necitumumab,10,necitumumab systemic,non-small cell lung cancer
+paclitaxel protein-bound,1.0,paclitaxel protein-bound systemic,non-small cell lung cancer
+Photofrin,,porfimer systemic,non-small cell lung cancer
+porfimer,,porfimer systemic,non-small cell lung cancer
+ramucirumab,,ramucirumab systemic,non-small cell lung cancer
+Rozlytrek,,entrectinib systemic,non-small cell lung cancer
+Tabrecta,,capmatinib systemic,non-small cell lung cancer
+trametinib,,trametinib systemic,non-small cell lung cancer
+capmatinib,,capmatinib systemic,non-small cell lung cancer
+cyclophosphamide,,cyclophosphamide systemic,non-small cell lung cancer
+dabrafenib,,dabrafenib systemic,non-small cell lung cancer
+selpercatinib,10,selpercatinib systemic,non-small cell lung cancer
+sotorasib,10,sotorasib systemic,non-small cell lung cancer
+Tepmetko,,tepotinib systemic,non-small cell lung cancer
+tepotinib,,tepotinib systemic,non-small cell lung cancer
+Vizimpro,,dacomitinib systemic,non-small cell lung cancer
+Alymsys,,bevacizumab systemic,non-small cell lung cancer
+cemiplimab,,cemiplimab systemic,non-small cell lung cancer
+entrectinib,,entrectinib systemic,non-small cell lung cancer
+Gavreto,,pralsetinib systemic,non-small cell lung cancer
+Infugem,,gemcitabine systemic,non-small cell lung cancer
+Libtayo,,cemiplimab systemic,non-small cell lung cancer
+Mvasi,,bevacizumab systemic,non-small cell lung cancer
+Pemfexy,,pemetrexed systemic,non-small cell lung cancer
+Portrazza,,necitumumab systemic,non-small cell lung cancer
+Vegzelma,,bevacizumab systemic,non-small cell lung cancer
+Zirabev,,bevacizumab systemic,non-small cell lung cancer
+adagrasib,,adagrasib systemic,non-small cell lung cancer
+Augtyro,,repotrectinib systemic,non-small cell lung cancer
+Avzivi,,bevacizumab systemic,non-small cell lung cancer
+binimetinib,,binimetinib systemic,non-small cell lung cancer
+Braftovi,,encorafenib systemic,non-small cell lung cancer
+encorafenib,,encorafenib systemic,non-small cell lung cancer
+Imjudo,,tremelimumab systemic,non-small cell lung cancer
+Krazati,,adagrasib systemic,non-small cell lung cancer
+Mektovi,,binimetinib systemic,non-small cell lung cancer
+mobocertinib,,mobocertinib systemic,non-small cell lung cancer
+Pemrydi RTU,,pemetrexed systemic,non-small cell lung cancer
+pralsetinib,,pralsetinib systemic,non-small cell lung cancer
+repotrectinib,,repotrectinib systemic,non-small cell lung cancer
+tremelimumab,,tremelimumab systemic,non-small cell lung cancer
+carboplatin,1.0,carboplatin systemic,cancer
+fluorouracil,,fluorouracil systemic,cancer
+doxorubicin,10,doxorubicin systemic,cancer
+etoposide,,etoposide systemic,cancer
+cyclophosphamide,,cyclophosphamide systemic,cancer
+Leukeran,,chlorambucil systemic,cancer
+vincristine,10,vincristine systemic,cancer
+Cosmegen,,dactinomycin systemic,cancer
+Toposar,,etoposide systemic,cancer
+Etopophos,,etoposide systemic,cancer
+vinblastine,,vinblastine systemic,cancer
+chlorambucil,,chlorambucil systemic,cancer
+Ifex,,ifosfamide systemic,cancer
+dactinomycin,,dactinomycin systemic,cancer
+Hycamtin,,topotecan systemic,cancer
+ifosfamide,1.0,ifosfamide systemic,cancer
+topotecan,,topotecan systemic,cancer
+fludarabine,,fludarabine systemic,cancer
+Tepadina,,thiotepa systemic,cancer
+thiotepa,,thiotepa systemic,cancer

@@ -1,0 +1,65 @@
+DrugName,Rating,genericName,Disease
+dexamethasone,,dexamethasone systemic,pulmonary-tuberculosis
+Dexamethasone Intensol,,dexamethasone systemic,pulmonary-tuberculosis
+De-Sone LA,,dexamethasone systemic,pulmonary-tuberculosis
+HiDex,,dexamethasone systemic,pulmonary-tuberculosis
+Dxevo,,dexamethasone systemic,pulmonary-tuberculosis
+isoniazid / pyrazinamide / rifampin,,isoniazid / pyrazinamide / rifampin systemic,tuberculosis-active
+ethambutol,,ethambutol systemic,tuberculosis-active
+isoniazid,7.0,isoniazid systemic,tuberculosis-active
+rifampin,10,rifampin systemic,tuberculosis-active
+pyrazinamide,,pyrazinamide systemic,tuberculosis-active
+levofloxacin,,levofloxacin systemic,tuberculosis-active
+isoniazid / rifampin,,isoniazid / rifampin systemic,tuberculosis-active
+ciprofloxacin,10,ciprofloxacin systemic,tuberculosis-active
+Cipro,10,ciprofloxacin systemic,tuberculosis-active
+Rifater,,isoniazid / pyrazinamide / rifampin systemic,tuberculosis-active
+streptomycin,,streptomycin systemic,tuberculosis-active
+moxifloxacin,,moxifloxacin systemic,tuberculosis-active
+Avelox,,moxifloxacin systemic,tuberculosis-active
+Levaquin,,levofloxacin systemic,tuberculosis-active
+amikacin,,amikacin systemic,tuberculosis-active
+Cipro I.V.,,ciprofloxacin systemic,tuberculosis-active
+Cipro XR,,ciprofloxacin systemic,tuberculosis-active
+Myambutol,,ethambutol systemic,tuberculosis-active
+Rifadin,,rifampin systemic,tuberculosis-active
+Rifamate,,isoniazid / rifampin systemic,tuberculosis-active
+Rimactane,,rifampin systemic,tuberculosis-active
+cycloserine,,cycloserine systemic,tuberculosis-active
+Priftin,,rifapentine systemic,tuberculosis-active
+Seromycin,,cycloserine systemic,tuberculosis-active
+aminosalicylic acid,,aminosalicylic acid systemic,tuberculosis-active
+rifapentine,,rifapentine systemic,tuberculosis-active
+Avelox I.V.,,moxifloxacin systemic,tuberculosis-active
+ethionamide,0.0,ethionamide systemic,tuberculosis-active
+ofloxacin,,ofloxacin systemic,tuberculosis-active
+Paser,,aminosalicylic acid systemic,tuberculosis-active
+Rifadin IV,,rifampin systemic,tuberculosis-active
+Trecator,,ethionamide systemic,tuberculosis-active
+prednisone,,prednisone systemic,tuberculosis-extrapulmonary
+cycloserine,,cycloserine systemic,tuberculosis-extrapulmonary
+Seromycin,,cycloserine systemic,tuberculosis-extrapulmonary
+Mycobutin,,rifabutin systemic,tuberculosis-hiv-positive
+rifabutin,,rifabutin systemic,tuberculosis-hiv-positive
+isoniazid,5.3,isoniazid systemic,tuberculosis-latent
+rifampin,5.3,rifampin systemic,tuberculosis-latent
+Rifadin,,rifampin systemic,tuberculosis-latent
+pyrazinamide,,pyrazinamide systemic,tuberculosis-latent
+Rimactane,,rifampin systemic,tuberculosis-latent
+Priftin,,rifapentine systemic,tuberculosis-latent
+Rifadin IV,,rifampin systemic,tuberculosis-latent
+rifapentine,,rifapentine systemic,tuberculosis-latent
+isoniazid,7.0,isoniazid systemic,tuberculosis-prophylaxis
+Rifadin,10,rifampin systemic,tuberculosis-prophylaxis
+rifampin,10,rifampin systemic,tuberculosis-prophylaxis
+Rimactane,,rifampin systemic,tuberculosis-prophylaxis
+Mycobutin,,rifabutin systemic,tuberculosis-prophylaxis
+bcg,,bcg systemic,tuberculosis-prophylaxis
+rifabutin,,rifabutin systemic,tuberculosis-prophylaxis
+Rifadin IV,,rifampin systemic,tuberculosis-prophylaxis
+bcg vaccine,,bcg vaccine systemic,tuberculosis-prophylaxis
+Sirturo,,bedaquiline systemic,tuberculosis-resistant
+bedaquiline,,bedaquiline systemic,tuberculosis-resistant
+pretomanid,,pretomanid systemic,tuberculosis-resistant
+Paser,,aminosalicylic acid systemic,tuberculosis-resistant
+aminosalicylic acid,,aminosalicylic acid systemic,tuberculosis-resistant

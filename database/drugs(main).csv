@@ -1,0 +1,1498 @@
+drug_name,generic_name,disease,composition
+PACLITAXEL,PACLITAXEL,cancer,C47H51NO14
+PARACETAMOLO,X,cancer,C8H9NO2
+JANUMET,SITAGLIPTIN AND METFORMIN HYDROCHLORIDE,cancer,C20H30ClF6N10O5P
+CASODEX,BICALUTAMIDE,cancer,C18H14F4N2O4S
+5-FLUOROURACIL,X,cancer,C4H3FN2O2
+MIRENA,LEVONORGESTREL,cancer,C21H28O2
+CISPLATIN,X,cancer,Cl2H6N2Pt
+LUPRON DEPOT,LEUPROLIDE ACETATE,cancer,C61H88N16O14
+HUMIRA,ADALIMUMAB,cancer,X
+SELARA,X,cancer,C24H30O6
+LUCRIN,X,cancer,C61H88N16O14
+COMETRIQ,CABOZANTINIB,cancer,C28H24FN3O5
+ABRAXANE,PACLITAXEL,cancer,C47H51NO14
+DOCETAXEL,X,cancer,C43H53NO14
+JAKAFI,RUXOLITINIB,cancer,C17H21N6O4P
+IMATINIB,IMATINIB,cancer,C29H31N7O
+FEMARA,LETROZOLE,cancer,C17H11N5
+XGEVA,DENOSUMAB,cancer,X
+AVASTIN,BEVACIZUMAB,cancer,X
+XELODA,CAPECITABINE,cancer,C15H22FN3O6
+ZERIT,X,cancer,C10H12N2O4
+KALETRA,LOPINAVIR AND RITONAVIR,cancer,X
+TAVEGIL,X,cancer,C25H30ClNO5
+ZYTIGA,ABIRATERONE ACETATE,cancer,C26H33NO2
+GLEEVEC,IMATINIB MESYLATE,cancer,C30H35N7O4S
+IRINOTECAN,X,cancer,C33H38N4O6
+OXALIPLATIN TEVA 5MG/ML,X,cancer,X
+OMEPRAZOLE,OMEPRAZOLE,cancer,C17H19N3O3S
+DUROTEP MT,X,cancer,C22H28N2O
+DARUNAVIR,DARUNAVIR,cancer,C27H37N3O7S
+JZOLOFT,X,cancer,X
+EXFORGE,AMLODIPINE BESYLATE AND VALSARTAN,cancer,C24H29N5O3
+NEXAVAR,SORAFENIB,cancer,C21H16ClF3N4O3
+SOLU-MEDROL,METHYLPREDNISOLONE SODIUM SUCCINATE,cancer,C26H33NaO8
+SUTENT,SUNITINIB MALATE,cancer,C22H27FN4O2
+INLYTA,AXITINIB,cancer,C22H18N4OS
+EXEMESTANE,EXEMESTANE,cancer,C20H24O2
+AFINITOR,EVEROLIMUS,cancer,C53H83NO14
+TYKERB,LAPATINIB,cancer,C29H26ClFN4O4S
+VOTRIENT,PAZOPANIB HYDROCHLORIDE,cancer,C21H24ClN7O2S
+DENOSUMAB,DENOSUMAB,cancer,X
+COMBIVIR,LAMIVUDINE AND ZIDOVUDINE,cancer,C10H16N5O13P3
+TAKEPRON,X,cancer,C16H14F3N3O2S
+ACLASTA,X,cancer,C5H10N2O7P2
+CISPLATIN,CISPLATIN,cancer,Cl2H6N2Pt
+INTERFERON BETA,X,cancer,X
+LANSOPRAZOLE,LANSOPRAZOLE,cancer,C16H14F3N3O2S
+CLOZARIL,CLOZAPINE,cancer,C18H19ClN4
+ISENTRESS,RALTEGRAVIR,cancer,C20H21FN6O5
+HERCEPTIN,TRASTUZUMAB,cancer,X
+FENTANYL TRANSDERMAL SYSTEM,X,cancer,C22H28N2O
+REBIF,INTERFERON BETA-1A,cancer,X
+PREDNISOLONE,PREDNISOLONE,cancer,C21H28O5
+AVONEX,INTERFERON BETA-1A,cancer,X
+XOLAIR,OMALIZUMAB,cancer,X
+BICALUTAMIDE,BICALUTAMIDE,cancer,C18H14F4N2O4S
+GILOTRIF,AFATINIB,cancer,C32H33ClFN5O11
+ZOMETA,X,cancer,C5H10N2O7P2
+TRUVADA,EMTRICITABINE AND TENOFOVIR DISOPROXIL FUMARATE,cancer,C9H14N5O4P
+VECTIBIX,PANITUMUMAB,cancer,X
+AMOXICILLIN,X,cancer,C16H19N3O5S
+ZOLADEX,GOSERELIN,cancer,C59H84N18O14
+FLUOROURACIL,FLUOROURACIL,cancer,C4H3FN2O2
+NEULASTA,PEGFILGRASTIM,cancer,X
+VINORELBINE,VINORELBINE,cancer,C45H54N4O8
+LUNESTA,ESZOPICLONE,cancer,C17H17ClN6O3
+RANMARK,X,cancer,X
+OXALIPLATIN,OXALIPLATIN,cancer,C8H14N2O4Pt
+SANDOSTATIN LAR,X,cancer,C51H70N10O12S2
+EVISTA,RALOXIFENE HYDROCHLORIDE,cancer,C28H28ClNO4S
+PLAQUENIL,HYDROXYCHLOROQUINE SULFATE,cancer,C18H26ClN3O
+CARBOPLATIN SUN 10 MG/ML KONZENTRAT ZUR HERSTELLUNG EINER INFUSIONSL?G,X,cancer,X
+PARACETAMOLO,X,Diabetes,C8H9NO2
+PRADAXA,DABIGATRAN ETEXILATE MESYLATE,Diabetes,X
+JANUMET,SITAGLIPTIN AND METFORMIN HYDROCHLORIDE,Diabetes,C20H30ClF6N10O5P
+LYRICA,PREGABALIN,Diabetes,C8H17NO2
+DIOVAN,VALSARTAN,Diabetes,C24H29N5O3
+AMIODARONE HCL,X,Diabetes,C25H30ClI2NO3
+METHYLPREDNISOLONE ACETATE,METHYLPREDNISOLONE ACETATE,Diabetes,C24H32O6
+LIPITOR,ATORVASTATIN CALCIUM,Diabetes,C66H68CaF2N4O10
+JANUVIA,SITAGLIPTIN,Diabetes,C16H20F6N5O6P
+DEPAKOTE,DIVALPROEX SODIUM,Diabetes,C16H31NaO4
+TOFACITINIB CITRATE,X,Diabetes,C22H28N6O8
+METFORMIN,METFORMIN,Diabetes,C4H11N5
+AZILECT,RASAGILINE MESYLATE,Diabetes,C13H17NO3S
+PREDNISOLONE,PREDNISOLONE,Diabetes,C21H28O5
+SANDOSTATIN LAR DEPOT,OCTREOTIDE ACETATE,Diabetes,C51H70N10O12S2
+REBIF,INTERFERON BETA-1A,Diabetes,X
+AMITRIPTYLINE,X,Diabetes,C20H23N
+JAKAFI,RUXOLITINIB,Diabetes,C17H21N6O4P
+PROAIR HFA,ALBUTEROL SULFATE,Diabetes,C26H44N2O10S
+POLOCARD,X,Diabetes,X
+PROPECIA,FINASTERIDE,Diabetes,C23H36N2O2
+PLAVIX,CLOPIDOGREL,Diabetes,C16H18ClNO6S2
+VYTORIN,EZETIMIBE AND SIMVASTATIN,Diabetes,C49H59F2NO8
+PLAN B ONE-STEP,LEVONORGESTREL,Diabetes,C21H28O2
+AVANDIA,X,Diabetes,C18H19N3O3S
+SIMVASTATIN.,SIMVASTATIN,Diabetes,X
+LESCOL XL,FLUVASTATIN SODIUM,Diabetes,C24H25FNNaO4
+KIOVIG NORMAL IMMUNOGLOBULIN (HUMAN) 20G/200ML FOR INTRAVENOUS USE INJ,X,Diabetes,X
+ALDACTAZIDE,SPIRONOLACTONE AND HYDROCHLOROTHIAZIDE,Diabetes,C7H8ClN3O4S2
+CASODEX,BICALUTAMIDE,Heart Attack,C18H14F4N2O4S
+TACROLIMUS (WATSON LABORATORIES),X,Heart Attack,X
+LETAIRIS,AMBRISENTAN,Heart Attack,C22H22N2O4
+CINRYZE,X,Heart Attack,X
+LISINOPRIL HCTZ,X,Heart Attack,X
+CITALOPRAM,CITALOPRAM,Heart Attack,C20H21FN2O
+DEPAKOTE,DIVALPROEX SODIUM,Heart Attack,C16H31NaO4
+DIANEAL LOW CALCIUM PERITONEAL DIALYSIS SOLUTION WITH DEXTROSE,X,Heart Attack,X
+AUBAGIO,TERIFLUNOMIDE,Heart Attack,C12H9F3N2O2
+KALETRA,LOPINAVIR AND RITONAVIR,Heart Attack,X
+PROAIR HFA,ALBUTEROL SULFATE,Heart Attack,C26H44N2O10S
+IMBRUVICA,IBRUTINIB,Heart Attack,C25H24N6O2
+TYVASO,TREPROSTINIL,Heart Attack,C23H34O5
+EFFEXOR XR,VENLAFAXINE HYDROCHLORIDE,Heart Attack,C17H28ClNO2
+SPIRIVA,TIOTROPIUM BROMIDE,Heart Attack,C19H22BrNO4S2
+PREDNISOLONE,X,Heart Attack,C21H28O5
+JAKAFI,RUXOLITINIB,Heart Attack,C17H21N6O4P
+PREDNISOLONE,PREDNISOLONE,Heart Attack,C21H28O5
+SUMATRIPTAN SUCCINATE TABLETS,X,Heart Attack,X
+BYSTOLIC,NEBIVOLOL HYDROCHLORIDE,Heart Attack,C22H26ClF2NO4
+AVANDIA,X,Heart Attack,C18H19N3O3S
+ONFI,CLOBAZAM,Heart Attack,C16H13ClN2O2
+ADVAIR,FLUTICASONE PROPIONATE AND SALMETEROL,Heart Attack,X
+SALBUTAMOL SULPHATE,X,Heart Attack,C26H44N2O10S
+RIFAMPICIN,X,Heart Attack,C43H58N4O12
+ADCIRCA,TADALAFIL,Heart Attack,C22H19N3O4
+GILENYA,FINGOLIMOD HCL,Heart Attack,C19H34ClNO2
+REMODULIN,TREPROSTINIL,Heart Attack,C23H34O5
+TRAZODONE,X,Heart Attack,C19H22ClN5O
+PRADAXA,DABIGATRAN ETEXILATE MESYLATE,Heart Attack,X
+HUMIRA,ADALIMUMAB,Heart Attack,X
+CLOZARIL,CLOZAPINE,Heart Attack,C18H19ClN4
+BUPRENORPHINE GENERIC,X,Heart Attack,X
+SINGULAIR,MONTELUKAST SODIUM,Heart Attack,C35H35ClNNaO3S
+AVONEX,INTERFERON BETA-1A,Heart Attack,X
+LEFLUNOMIDE.,LEFLUNOMIDE,Heart Attack,X
+RANIBIZUMAB,RANIBIZUMAB,Heart Attack,X
+VISINE ORIGINAL,X,Heart Attack,X
+CRESTOR,ROSUVASTATIN,Heart Attack,C44H54CaF2N6O12S2
+SANDOSTATIN LAR DEPOT,OCTREOTIDE ACETATE,Heart Attack,C51H70N10O12S2
+CLOPIDOGREL TABLETS USP,X,Heart Attack,X
+XARELTO,RIVAROXABAN,Heart Attack,C19H18ClN3O5S
+LEXISCAN,REGADENOSON,Heart Attack,C15H18N8O5
+NAGLAZYME,GALSULFASE,Heart Attack,X
+ADDERALL XR,"DEXTROAMPHETAMINE SULFATE, DEXTROAMPHETAMINE SACCHARATE, AMPHETAMINE SULFATE AND AMPHETAMINE ASPARTATE",Heart Attack,C9H13N
+LETROZOLE TABLETS 2.5MG,X,Heart Attack,X
+METOPROLOL,METOPROLOL TARTRATE,Heart Attack,C15H25NO3
+VENLAFAXINE HCL,X,Heart Attack,C17H28ClNO2
+VENLAFAXINE ER,X,Heart Attack,X
+EFFEXOR,VENLAFAXINE HYDROCHLORIDE,Heart Attack,C17H28ClNO2
+SERTRALINE,SERTRALINE,Heart Attack,C17H17Cl2N
+FETZIMA,LEVOMILNACIPRAN HYDROCHLORIDE,Heart Attack,C15H23ClN2O
+MYORISAN,X,Heart Attack,C20H28O2
+PROPRANOLOL,PROPRANOLOL HYDROCHLORIDE,Heart Attack,C16H21NO2
+DIANEAL LOW CALCIUM (ULTRABAG),X,Heart Attack,X
+ERBITUX,CETUXIMAB,Heart Attack,C17H23NO2
+KIOVIG,X,Heart Attack,X
+NOVOLOG,INSULIN ASPART,Heart Attack,C256H381N65O79S6
+VYVANSE,LISDEXAMFETAMINE DIMESYLATE,Heart Attack,C17H33N3O7S2
+BUTRANS TRANSDERMAL PATCH,X,Heart Attack,X
+REVATIO,SILDENAFIL CITRATE,Heart Attack,C28H38N6O11S
+BELIMUMAB,BELIMUMAB,Heart Attack,X
+ENBREL,ETANERCEPT,Heart Attack,X
+STELARA,USTEKINUMAB,Heart Attack,X
+ETHAMBUTOL,X,Heart Attack,C10H24N2O2
+TENOFOVIR DISOPROXIL FUMARATE,TENOFOVIR DISOPROXIL FUMARATE,Heart Attack,C23H34N5O14P
+REMICADE,INFLIXIMAB,Heart Attack,X
+TYSABRI,NATALIZUMAB,Heart Attack,X
+EPIRUBICIN,X,Heart Attack,C27H29NO11
+"INFLIXIMAB, RECOMBINANT",X,Heart Attack,X
+ISONIAZID,ISONIAZID,Heart Attack,C6H7N3O
+SOLIRIS,ECULIZUMAB,Heart Attack,X
+INFLIXIMAB,X,Heart Attack,X
+WARFARIN,WARFARIN,Heart Attack,C19H16O4
+ELVITEGRAVIR/EMTRICITABINE/TENOFOVIR DF/COBICISTAT,X,Heart Attack,X
+ONCOTICE,X,Heart Attack,X
+TACROLIMUS,X,Heart Attack,C44H69NO12
+RIFAMPIN,RIFAMPIN,Heart Attack,C43H58N4O12
+VANCOMYCIN HCL,X,Heart Attack,C66H76Cl3N9O24
+RIFAMPICINL,X,Heart Attack,X
+FLUOROURACIL,X,Heart Attack,C4H3FN2O2
+HARNAL ORODISPERSABLE CR,X,Heart Attack,X
+BCG FOR IMMUNOTHERAPY,X,Heart Attack,X
+BYETTA PEN DISPOSABLE,X,Heart Attack,X
+EPZICOM,ABACAVIR SULFATE AND LAMIVUDINE,Heart Attack,C14H18N6O
+MOXIFLOXACIN ORAL,X,Heart Attack,X
+ZYVOXID,X,Heart Attack,C16H20FN3O4
+AMLODIPINE,AMLODIPINE,Heart Attack,C20H25ClN2O5
+METHOTREXATE,METHOTREXATE,Heart Attack,C20H22N8O5
+ALOGLIPTIN,ALOGLIPTIN,Heart Attack,C18H21N5O2
+VIRAMUNE,NEVIRAPINE,Heart Attack,C15H14N4O
+CIMZIA,CERTOLIZUMAB PEGOL,Heart Attack,X
+MIRAPEX ER,PRAMIPEXOLE DIHYDROCHLORIDE,Heart Attack,C10H19Cl2N3S
+METFORMIN,METFORMIN,Heart Attack,C4H11N5
+BENLYSTA,BELIMUMAB,Heart Attack,X
+VALPROATE SODIUM,VALPROATE SODIUM,Heart Attack,C8H15NaO2
+SIMPONI,GOLIMUMAB,Heart Attack,X
+PANTOPRAZOLE,PANTOPRAZOLE,Heart Attack,C16H15F2N3O4S
+ETANERCEPT,ETANERCEPT,Heart Attack,X
+COREG CR,CARVEDILOL PHOSPHATE,Heart Attack,C48H60N4O17P2
+PLAQUENIL,HYDROXYCHLOROQUINE SULFATE,Heart Attack,C18H26ClN3O
+EFAVIRENZ TABS,X,Heart Attack,X
+ABATACEPT,ABATACEPT,Heart Attack,X
+TICE BCG LIVE,X,Heart Attack,X
+IZILOX,X,Heart Attack,C21H25ClFN3O4
+PASIREOTIDE.,PASIREOTIDE,Heart Attack,X
+NEVIRAPINE,NEVIRAPINE,Heart Attack,C15H14N4O
+TOCILIZUMAB,TOCILIZUMAB,Heart Attack,X
+metformin,metformin systemic,Diabetes,C4H11N5
+Ozempic,semaglutide systemic,Diabetes,C187H291N45O59
+Rybelsus,semaglutide systemic,Diabetes,C187H291N45O59
+Mounjaro,tirzepatide systemic,Diabetes,C225H348N48O68
+semaglutide,semaglutide systemic,Diabetes,C187H291N45O59
+tirzepatide,tirzepatide systemic,Diabetes,X
+Januvia,sitagliptin systemic,Diabetes,C16H20F6N5O6P
+Victoza,liraglutide systemic,Diabetes,C172H265N43O51
+glipizide,glipizide systemic,Diabetes,C21H27N5O4S
+glimepiride,glimepiride systemic,Diabetes,C24H34N4O5S
+Jardiance,empagliflozin systemic,Diabetes,C23H27ClO7
+Amaryl,glimepiride systemic,Diabetes,C24H34N4O5S
+Farxiga,dapagliflozin systemic,Diabetes,C24H35ClO9
+Lantus,insulin glargine systemic,Diabetes,X
+Invokana,canagliflozin systemic,Diabetes,C24H25FO5S
+Trulicity,dulaglutide systemic,Diabetes,X
+Actos,pioglitazone systemic,Diabetes,C19H20N2O3S
+Levemir,insulin detemir systemic,Diabetes,C267H402N64O76S6
+Janumet,metformin / sitagliptin systemic,Diabetes,C20H30ClF6N10O5P
+Glucotrol,glipizide systemic,Diabetes,C21H27N5O4S
+Byetta,exenatide systemic,Diabetes,C184H282N50O60S
+Glumetza,metformin systemic,Diabetes,C4H12ClN5
+pioglitazone,pioglitazone systemic,Diabetes,C19H20N2O3S
+Bydureon,exenatide systemic,Diabetes,C184H282N50O60S
+Humalog,insulin lispro systemic,Diabetes,C257H383N65O77S6
+Lantus SoloStar,insulin glargine systemic,Diabetes,C267H404N72O78S6
+liraglutide,liraglutide systemic,Diabetes,C172H265N43O51
+Tradjenta,linagliptin systemic,Diabetes,C25H28N8O2
+Novolog,insulin aspart systemic,Diabetes,C256H381N65O79S6
+sitagliptin,sitagliptin systemic,Diabetes,C16H15F6N5O
+glyburide,glyburide systemic,Diabetes,C23H28ClN3O5S
+metformin / sitagliptin,metformin / sitagliptin systemic,Diabetes,X
+Onglyza,saxagliptin systemic,Diabetes,C18H25N3O2
+dapagliflozin,dapagliflozin systemic,Diabetes,C21H25ClO6
+GlipiZIDE XL,glipizide systemic,Diabetes,C21H27N5O4S
+insulin glargine,insulin glargine systemic,Diabetes,C267H404N72O78S6
+Prandin,repaglinide systemic,Diabetes,C27H36N2O4
+Tresiba,insulin degludec systemic,Diabetes,C274H411N65O81S6
+canagliflozin,canagliflozin systemic,Diabetes,C24H25FO5S
+chromium picolinate,chromium picolinate systemic,Diabetes,C18H12CrN3O6
+empagliflozin,empagliflozin systemic,Diabetes,C23H27ClO7
+exenatide,exenatide systemic,Diabetes,C184H282N50O60S
+Humulin R,insulin regular systemic,Diabetes,C257H383N65O77S6
+NovoLog FlexPen,insulin aspart systemic,Diabetes,C256H381N65O79S6
+repaglinide,repaglinide systemic,Diabetes,C27H36N2O4
+acarbose,acarbose systemic,Diabetes,C25H43NO18
+Avandia,rosiglitazone systemic,Diabetes,C18H19N3O3S
+Basaglar,insulin glargine systemic,Diabetes,C267H404N72O78S6
+dulaglutide,dulaglutide systemic,Diabetes,X
+glimepiride / pioglitazone,glimepiride / pioglitazone systemic,Diabetes,X
+Glucotrol XL,glipizide systemic,Diabetes,C21H27N5O4S
+glyburide / metformin,glyburide / metformin systemic,Diabetes,X
+Humalog KwikPen,insulin lispro systemic,Diabetes,X
+Humulin N,insulin isophane systemic,Diabetes,C257H383N65O77S6
+insulin aspart,insulin aspart systemic,Diabetes,X
+insulin lispro,insulin lispro systemic,Diabetes,C257H389N65O77S6
+Kombiglyze XR,metformin / saxagliptin systemic,Diabetes,C22H36N8O2
+linagliptin,linagliptin systemic,Diabetes,C25H28N8O2
+Toujeo SoloStar,insulin glargine systemic,Diabetes,C267H404N72O78S6
+Welchol,colesevelam systemic,Diabetes,C31H67Cl3N4O
+Xigduo XR,dapagliflozin / metformin systemic,Diabetes,C25H37Cl2N5O6
+Admelog,insulin lispro systemic,Diabetes,C257H383N65O77S6
+alogliptin,alogliptin systemic,Diabetes,C18H21N5O2
+Apidra,insulin glulisine systemic,Diabetes,C258H384N64O78S6
+bromocriptine,bromocriptine systemic,Diabetes,C32H40BrN5O5
+colesevelam,colesevelam systemic,Diabetes,C31H67Cl3N4O
+Cycloset,bromocriptine systemic,Diabetes,C33H44BrN5O8S
+dapagliflozin / metformin,dapagliflozin / metformin systemic,Diabetes,X
+DiaBeta,glyburide systemic,Diabetes,C23H28ClN3O5S
+empagliflozin / metformin,empagliflozin / metformin systemic,Diabetes,X
+Fiasp,insulin aspart systemic,Diabetes,C256H381N65O79S6
+glipizide / metformin,glipizide / metformin systemic,Diabetes,X
+Glucovance,glyburide / metformin systemic,Diabetes,C27H40Cl2N8O5S
+Glycron,glyburide systemic,Diabetes,C23H28ClN3O5S
+Glynase,glyburide systemic,Diabetes,C23H28ClN3O5S
+Glyset,miglitol systemic,Diabetes,C8H17NO5
+Humulin 70/30,insulin isophane / insulin regular systemic,Diabetes,X
+insulin detemir,insulin detemir systemic,Diabetes,C267H402N64O76S6
+insulin regular,insulin regular systemic,Diabetes,X
+Janumet XR,metformin / sitagliptin systemic,Diabetes,C20H30ClF6N10O5P
+Jentadueto,linagliptin / metformin systemic,Diabetes,C29H39N13O2
+Lyumjev,insulin lispro systemic,Diabetes,X
+metformin / pioglitazone,metformin / pioglitazone systemic,Diabetes,X
+metformin / saxagliptin,metformin / saxagliptin systemic,Diabetes,X
+miglitol,miglitol systemic,Diabetes,C8H17NO5
+Nesina,alogliptin systemic,Diabetes,C25H27N5O4
+Novolin 70/30,insulin isophane / insulin regular systemic,Diabetes,X
+Novolin N,insulin isophane systemic,Diabetes,X
+Novolin R,insulin regular systemic,Diabetes,C257H383N65O77S6
+pramlintide,pramlintide systemic,Diabetes,C171H267N51O53S2
+saxagliptin,saxagliptin systemic,Diabetes,C18H25N3O2
+Soliqua,insulin glargine / lixisenatide systemic,Diabetes,X
+Synjardy,empagliflozin / metformin systemic,Diabetes,X
+Toujeo Max SoloStar,insulin glargine systemic,Diabetes,X
+Xultophy,insulin degludec / liraglutide systemic,Diabetes,X
+ActoPlus Met,metformin / pioglitazone systemic,Diabetes,C23H33Cl2N7O3S
+Adlyxin,lixisenatide systemic,Diabetes,C215H347N61O65S
+Afrezza,"insulin inhalation, rapid acting systemic",Diabetes,X
+albiglutide,albiglutide systemic,Diabetes,C148H224N40O45
+alogliptin / metformin,alogliptin / metformin systemic,Diabetes,X
+alogliptin / pioglitazone,alogliptin / pioglitazone systemic,Diabetes,X
+bexagliflozin,bexagliflozin systemic,Diabetes,C24H29ClO7
+Brenzavvy,bexagliflozin systemic,Diabetes,C24H29ClO7
+Bydureon BCise,exenatide systemic,Diabetes,X
+canagliflozin / metformin,canagliflozin / metformin systemic,Diabetes,X
+dapagliflozin / saxagliptin,dapagliflozin / saxagliptin systemic,Diabetes,X
+Duetact,glimepiride / pioglitazone systemic,Diabetes,X
+empagliflozin / linagliptin / metformin,empagliflozin / linagliptin / metformin systemic,Diabetes,X
+empagliflozin / linagliptin,empagliflozin / linagliptin systemic,Diabetes,X
+ertugliflozin / metformin,ertugliflozin / metformin systemic,Diabetes,X
+ertugliflozin / sitagliptin,ertugliflozin / sitagliptin systemic,Diabetes,X
+ertugliflozin,ertugliflozin systemic,Diabetes,C22H25ClO7
+Glynase PresTab,glyburide systemic,Diabetes,X
+Glyxambi,empagliflozin / linagliptin systemic,Diabetes,C48H55ClN8O9
+Humalog Mix 50/50,insulin lispro/insulin lispro protamine systemic,Diabetes,X
+Humalog Mix 50/50 KwikPen,insulin lispro/insulin lispro protamine systemic,Diabetes,X
+Humalog Mix 75/25,insulin lispro/insulin lispro protamine systemic,Diabetes,X
+Humalog Mix 75/25 KwikPen,insulin lispro/insulin lispro protamine systemic,Diabetes,X
+Humulin 50/50,insulin isophane / insulin regular systemic,Diabetes,X
+Humulin 70/30 Pen,insulin isophane / insulin regular systemic,Diabetes,X
+Humulin N Pen,insulin isophane systemic,Diabetes,X
+Humulin R U-500 (Concentrated),insulin regular systemic,Diabetes,X
+Humulin R U-500 KwikPen,insulin regular systemic,Diabetes,X
+insulin aspart/insulin aspart protamine,insulin aspart/insulin aspart protamine systemic,Diabetes,X
+insulin degludec / liraglutide,insulin degludec / liraglutide systemic,Diabetes,X
+insulin degludec,insulin degludec systemic,Diabetes,C274H411N65O81S6
+insulin glargine / lixisenatide,insulin glargine / lixisenatide systemic,Diabetes,X
+insulin glulisine,insulin glulisine systemic,Diabetes,C258H384N64O78S6
+"insulin inhalation, rapid acting","insulin inhalation, rapid acting systemic",Diabetes,X
+insulin isophane / insulin regular,insulin isophane / insulin regular systemic,Diabetes,X
+insulin isophane,insulin isophane systemic,Diabetes,C257H383N65O77S6Zn
+insulin lispro/insulin lispro protamine,insulin lispro/insulin lispro protamine systemic,Diabetes,X
+Invokamet,canagliflozin / metformin systemic,Diabetes,C28H36FN5O5S
+Invokamet XR,canagliflozin / metformin systemic,Diabetes,C28H36FN5O5S
+Jentadueto XR,linagliptin / metformin systemic,Diabetes,C29H39N13O2
+Kazano,alogliptin / metformin systemic,Diabetes,C22H33ClN10O2
+linagliptin / metformin,linagliptin / metformin systemic,Diabetes,X
+lixisenatide,lixisenatide systemic,Diabetes,C215H347N61O65S
+Myxredlin,insulin regular systemic,Diabetes,X
+nateglinide,nateglinide systemic,Diabetes,C19H27NO3
+NovoLog Mix 70/30,insulin aspart/insulin aspart protamine systemic,Diabetes,X
+NovoLog Mix 70/30 FlexPen,insulin aspart/insulin aspart protamine systemic,Diabetes,X
+NovoLog PenFill,insulin aspart systemic,Diabetes,C256H381N65O79S6
+Oseni,alogliptin / pioglitazone systemic,Diabetes,C37H41N7O5S
+Qtern,dapagliflozin / saxagliptin systemic,Diabetes,C39H50ClN3O8
+ReliOn/Novolin 70/30,insulin isophane / insulin regular systemic,Diabetes,X
+Rezvoglar,insulin glargine systemic,Diabetes,X
+rosiglitazone,rosiglitazone systemic,Diabetes,C18H19N3O3S
+Segluromet,ertugliflozin / metformin systemic,Diabetes,X
+Semglee,insulin glargine systemic,Diabetes,X
+Starlix,nateglinide systemic,Diabetes,C19H27NO3
+Steglatro,ertugliflozin systemic,Diabetes,C22H25ClO7
+Steglujan,ertugliflozin / sitagliptin systemic,Diabetes,X
+Symlin,pramlintide systemic,Diabetes,C171H269N51O53S2
+Symlin Pen,pramlintide systemic,Diabetes,X
+SymlinPen 60,pramlintide systemic,Diabetes,X
+SymlinPen 120,pramlintide systemic,Diabetes,X
+Synjardy XR,empagliflozin / metformin systemic,Diabetes,C27H39Cl2N5O7
+Tanzeum,albiglutide systemic,Diabetes,C148H224N40O45
+Trijardy XR,empagliflozin / linagliptin / metformin systemic,Diabetes,X
+Zituvimet,metformin / sitagliptin systemic,Diabetes,X
+Zituvio,sitagliptin systemic,Diabetes,C16H15F6N5O
+anastrozole,anastrozole systemic,breast-cancer,C17H19N5
+tamoxifen,tamoxifen systemic,breast-cancer,C26H29NO
+letrozole,letrozole systemic,breast-cancer,C17H11N5
+Arimidex,anastrozole systemic,breast-cancer,C17H19N5
+Verzenio,abemaciclib systemic,breast-cancer,C27H32F2N8
+Ibrance,palbociclib systemic,breast-cancer,C24H29N7O2
+exemestane,exemestane systemic,breast-cancer,C20H24O2
+abemaciclib,abemaciclib systemic,breast-cancer,C27H32F2N8
+palbociclib,palbociclib systemic,breast-cancer,C24H29N7O2
+Keytruda,pembrolizumab systemic,breast-cancer,X
+Kisqali,ribociclib systemic,breast-cancer,C23H30N8O
+pembrolizumab,pembrolizumab systemic,breast-cancer,X
+Piqray,alpelisib systemic,breast-cancer,C19H22F3N5O2S
+ribociclib,ribociclib systemic,breast-cancer,C23H30N8O
+alpelisib,alpelisib systemic,breast-cancer,C19H22F3N5O2S
+Enhertu,fam-trastuzumab deruxtecan systemic,breast-cancer,X
+Femara,letrozole systemic,breast-cancer,C17H11N5
+Trodelvy,sacituzumab govitecan systemic,breast-cancer,X
+fam-trastuzumab deruxtecan,fam-trastuzumab deruxtecan systemic,breast-cancer,X
+sacituzumab govitecan,sacituzumab govitecan systemic,breast-cancer,C76H104N12O24S
+Aromasin,exemestane systemic,breast-cancer,C20H24O2
+Herceptin,trastuzumab systemic,breast-cancer,X
+Abraxane,paclitaxel protein-bound systemic,breast-cancer,C47H51NO14
+methotrexate,methotrexate systemic,breast-cancer,C20H22N8O5
+Afinitor,everolimus systemic,breast-cancer,C53H83NO14
+Taxotere,docetaxel systemic,breast-cancer,C43H53NO14
+Trexall,methotrexate systemic,breast-cancer,C20H22N8O5
+Xeloda,capecitabine systemic,breast-cancer,C15H22FN3O6
+cyclophosphamide,cyclophosphamide systemic,breast-cancer,C7H15Cl2N2O2P
+Faslodex,fulvestrant systemic,breast-cancer,C32H47F5O3S
+paclitaxel,paclitaxel systemic,breast-cancer,C47H51NO14
+doxorubicin,doxorubicin systemic,breast-cancer,C27H29NO11
+Perjeta,pertuzumab systemic,breast-cancer,X
+trastuzumab,trastuzumab systemic,breast-cancer,X
+capecitabine,capecitabine systemic,breast-cancer,C15H22FN3O6
+docetaxel,docetaxel systemic,breast-cancer,C43H53NO14
+everolimus,everolimus systemic,breast-cancer,C53H83NO14
+fluorouracil,fluorouracil systemic,breast-cancer,C4H3FN2O2
+fulvestrant,fulvestrant systemic,breast-cancer,C32H47F5O3S
+Gemzar,gemcitabine systemic,breast-cancer,C9H12ClF2N3O4
+paclitaxel protein-bound,paclitaxel protein-bound systemic,breast-cancer,X
+Soltamox,tamoxifen systemic,breast-cancer,X
+Tykerb,lapatinib systemic,breast-cancer,C29H26ClFN4O4S
+Fareston,toremifene systemic,breast-cancer,C32H36ClNO8
+Halaven,eribulin systemic,breast-cancer,C41H63NO14S
+letrozole / ribociclib,letrozole / ribociclib systemic,breast-cancer,X
+Menest,esterified estrogens systemic,breast-cancer,C18H24O2
+pertuzumab,pertuzumab systemic,breast-cancer,X
+ado-trastuzumab emtansine,ado-trastuzumab emtansine systemic,breast-cancer,X
+atezolizumab,atezolizumab systemic,breast-cancer,X
+bevacizumab,bevacizumab systemic,breast-cancer,X
+eribulin,eribulin systemic,breast-cancer,C40H59NO11
+esterified estrogens,esterified estrogens systemic,breast-cancer,X
+gemcitabine,gemcitabine systemic,breast-cancer,C9H11F2N3O4
+Herceptin Hylecta,hyaluronidase / trastuzumab systemic,breast-cancer,X
+Herzuma,trastuzumab systemic,breast-cancer,X
+Infugem,gemcitabine systemic,breast-cancer,C9H12ClF2N3O4
+ixabepilone,ixabepilone systemic,breast-cancer,C27H42N2O5S
+Ixempra,ixabepilone systemic,breast-cancer,C27H42N2O5S
+Kadcyla,ado-trastuzumab emtansine systemic,breast-cancer,C47H64ClN5O13S
+Kanjinti,trastuzumab systemic,breast-cancer,X
+lapatinib,lapatinib systemic,breast-cancer,C29H26ClFN4O4S
+Lynparza,olaparib systemic,breast-cancer,C24H23FN4O3
+Ogivri,trastuzumab systemic,breast-cancer,X
+olaparib,olaparib systemic,breast-cancer,C24H23FN4O3
+Ontruzant,trastuzumab systemic,breast-cancer,X
+Phesgo,hyaluronidase / pertuzumab / trastuzumab systemic,breast-cancer,X
+talazoparib,talazoparib systemic,breast-cancer,C19H14F2N6O
+Tepadina,thiotepa systemic,breast-cancer,C6H12N3PS
+thiotepa,thiotepa systemic,breast-cancer,C6H12N3PS
+toremifene,toremifene systemic,breast-cancer,C26H28ClNO
+Trazimera,trastuzumab systemic,breast-cancer,X
+Tukysa,tucatinib systemic,breast-cancer,C26H24N8O2
+vinblastine,vinblastine systemic,breast-cancer,C46H58N4O9
+capivasertib,capivasertib systemic,breast-cancer,C21H25ClN6O2
+elacestrant,elacestrant systemic,breast-cancer,C30H38N2O2
+Hercessi,trastuzumab systemic,breast-cancer,X
+hyaluronidase / pertuzumab / trastuzumab,hyaluronidase / pertuzumab / trastuzumab systemic,breast-cancer,X
+hyaluronidase / trastuzumab,hyaluronidase / trastuzumab systemic,breast-cancer,X
+Kisqali Femara Co-Pack,letrozole / ribociclib systemic,breast-cancer,X
+Orserdu,elacestrant systemic,breast-cancer,C30H38N2O2
+Talzenna,talazoparib systemic,breast-cancer,C19H14F2N6O
+Truqap,capivasertib systemic,breast-cancer,C21H25ClN6O2
+tucatinib,tucatinib systemic,breast-cancer,C26H24N8O2
+Keytruda,pembrolizumab systemic,non-small cell lung cancer,X
+Tagrisso,osimertinib systemic,non-small cell lung cancer,C29H37N7O5S
+Opdivo,nivolumab systemic,non-small cell lung cancer,X
+Alimta,pemetrexed systemic,non-small cell lung cancer,C20H19N5Na2O6
+Avastin,bevacizumab systemic,non-small cell lung cancer,X
+nivolumab,nivolumab systemic,non-small cell lung cancer,X
+Imfinzi,durvalumab systemic,non-small cell lung cancer,X
+pembrolizumab,pembrolizumab systemic,non-small cell lung cancer,X
+durvalumab,durvalumab systemic,non-small cell lung cancer,X
+Iressa,gefitinib systemic,non-small cell lung cancer,C22H24ClFN4O3
+amivantamab,amivantamab systemic,non-small cell lung cancer,X
+Enhertu,fam-trastuzumab deruxtecan systemic,non-small cell lung cancer,X
+Rybrevant,amivantamab systemic,non-small cell lung cancer,X
+fam-trastuzumab deruxtecan,fam-trastuzumab deruxtecan systemic,non-small cell lung cancer,X
+erlotinib,erlotinib systemic,non-small cell lung cancer,C22H23N3O4
+pemetrexed,pemetrexed systemic,non-small cell lung cancer,C20H21N5O6
+cisplatin,cisplatin systemic,non-small cell lung cancer,Cl2H6N2Pt
+Xalkori,crizotinib systemic,non-small cell lung cancer,C21H22Cl2FN5O
+Alecensa,alectinib systemic,non-small cell lung cancer,C30H35ClN4O2
+Gemzar,gemcitabine systemic,non-small cell lung cancer,C9H12ClF2N3O4
+Taxotere,docetaxel systemic,non-small cell lung cancer,C43H53NO14
+paclitaxel,paclitaxel systemic,non-small cell lung cancer,C47H51NO14
+Tecentriq,atezolizumab systemic,non-small cell lung cancer,X
+Abraxane,paclitaxel protein-bound systemic,non-small cell lung cancer,C47H51NO14
+bevacizumab,bevacizumab systemic,non-small cell lung cancer,X
+gemcitabine,gemcitabine systemic,non-small cell lung cancer,C9H11F2N3O4
+Gilotrif,afatinib systemic,non-small cell lung cancer,C32H33ClFN5O11
+osimertinib,osimertinib systemic,non-small cell lung cancer,C28H33N7O2
+crizotinib,crizotinib systemic,non-small cell lung cancer,C21H22Cl2FN5O
+gefitinib,gefitinib systemic,non-small cell lung cancer,C22H24ClFN4O3
+Navelbine,vinorelbine systemic,non-small cell lung cancer,C45H54N4O8
+methotrexate,methotrexate systemic,non-small cell lung cancer,C20H22N8O5
+Trexall,methotrexate systemic,non-small cell lung cancer,C20H22N8O5
+docetaxel,docetaxel systemic,non-small cell lung cancer,C43H53NO14
+lorlatinib,lorlatinib systemic,non-small cell lung cancer,C21H19FN6O2
+afatinib,afatinib systemic,non-small cell lung cancer,C24H25ClFN5O3
+alectinib,alectinib systemic,non-small cell lung cancer,C30H34N4O2
+atezolizumab,atezolizumab systemic,non-small cell lung cancer,X
+Lumakras,sotorasib systemic,non-small cell lung cancer,C30H30F2N6O3
+Alunbrig,brigatinib systemic,non-small cell lung cancer,C29H39ClN7O2P
+ceritinib,ceritinib systemic,non-small cell lung cancer,C28H36ClN5O3S
+Lorbrena,lorlatinib systemic,non-small cell lung cancer,C21H19FN6O2
+vinorelbine,vinorelbine systemic,non-small cell lung cancer,C45H54N4O8
+Zykadia,ceritinib systemic,non-small cell lung cancer,C28H36ClN5O3S
+Cyramza,ramucirumab systemic,non-small cell lung cancer,X
+Tafinlar,dabrafenib systemic,non-small cell lung cancer,C23H20F3N5O2S2
+brigatinib,brigatinib systemic,non-small cell lung cancer,C29H39ClN7O2P
+capecitabine,capecitabine systemic,non-small cell lung cancer,C15H22FN3O6
+Retevmo,selpercatinib systemic,non-small cell lung cancer,C29H31N7O3
+cetuximab,cetuximab systemic,non-small cell lung cancer,X
+dacomitinib,dacomitinib systemic,non-small cell lung cancer,C24H25ClFN5O2
+Mekinist,trametinib systemic,non-small cell lung cancer,C26H23FIN5O4
+necitumumab,necitumumab systemic,non-small cell lung cancer,X
+paclitaxel protein-bound,paclitaxel protein-bound systemic,non-small cell lung cancer,X
+Photofrin,porfimer systemic,non-small cell lung cancer,X
+porfimer,porfimer systemic,non-small cell lung cancer,X
+ramucirumab,ramucirumab systemic,non-small cell lung cancer,X
+Rozlytrek,entrectinib systemic,non-small cell lung cancer,C31H34F2N6O2
+Tabrecta,capmatinib systemic,non-small cell lung cancer,C23H21Cl2FN6O2
+trametinib,trametinib systemic,non-small cell lung cancer,C26H23FIN5O4
+capmatinib,capmatinib systemic,non-small cell lung cancer,C23H17FN6O
+cyclophosphamide,cyclophosphamide systemic,non-small cell lung cancer,C7H15Cl2N2O2P
+dabrafenib,dabrafenib systemic,non-small cell lung cancer,C23H20F3N5O2S2
+selpercatinib,selpercatinib systemic,non-small cell lung cancer,C29H31N7O3
+sotorasib,sotorasib systemic,non-small cell lung cancer,C30H30F2N6O3
+Tepmetko,tepotinib systemic,non-small cell lung cancer,C29H31ClN6O3
+tepotinib,tepotinib systemic,non-small cell lung cancer,C29H28N6O2
+Vizimpro,dacomitinib systemic,non-small cell lung cancer,C24H27ClFN5O3
+Alymsys,bevacizumab systemic,non-small cell lung cancer,X
+cemiplimab,cemiplimab systemic,non-small cell lung cancer,X
+entrectinib,entrectinib systemic,non-small cell lung cancer,C31H34F2N6O2
+Gavreto,pralsetinib systemic,non-small cell lung cancer,C27H32FN9O2
+Infugem,gemcitabine systemic,non-small cell lung cancer,C9H12ClF2N3O4
+Libtayo,cemiplimab systemic,non-small cell lung cancer,X
+Mvasi,bevacizumab systemic,non-small cell lung cancer,X
+Pemfexy,pemetrexed systemic,non-small cell lung cancer,C20H21N5O6
+Portrazza,necitumumab systemic,non-small cell lung cancer,X
+Vegzelma,bevacizumab systemic,non-small cell lung cancer,X
+Zirabev,bevacizumab systemic,non-small cell lung cancer,X
+adagrasib,adagrasib systemic,non-small cell lung cancer,C32H35ClFN7O2
+Augtyro,repotrectinib systemic,non-small cell lung cancer,C18H18FN5O2
+Avzivi,bevacizumab systemic,non-small cell lung cancer,X
+binimetinib,binimetinib systemic,non-small cell lung cancer,C17H15BrF2N4O3
+Braftovi,encorafenib systemic,non-small cell lung cancer,C22H27ClFN7O4S
+encorafenib,encorafenib systemic,non-small cell lung cancer,C22H27ClFN7O4S
+Imjudo,tremelimumab systemic,non-small cell lung cancer,X
+Krazati,adagrasib systemic,non-small cell lung cancer,C32H35ClFN7O2
+Mektovi,binimetinib systemic,non-small cell lung cancer,C17H15BrF2N4O3
+mobocertinib,mobocertinib systemic,non-small cell lung cancer,C32H39N7O4
+Pemrydi RTU,pemetrexed systemic,non-small cell lung cancer,C40H48N10Na4O17
+pralsetinib,pralsetinib systemic,non-small cell lung cancer,C27H32FN9O2
+repotrectinib,repotrectinib systemic,non-small cell lung cancer,C18H18FN5O2
+tremelimumab,tremelimumab systemic,non-small cell lung cancer,X
+carboplatin,carboplatin systemic,cancer,C6H12N2O4Pt
+fluorouracil,fluorouracil systemic,cancer,C4H3FN2O2
+doxorubicin,doxorubicin systemic,cancer,C27H29NO11
+etoposide,etoposide systemic,cancer,C29H32O13
+cyclophosphamide,cyclophosphamide systemic,cancer,C7H15Cl2N2O2P
+Leukeran,chlorambucil systemic,cancer,C14H19Cl2NO2
+vincristine,vincristine systemic,cancer,C46H56N4O10
+Cosmegen,dactinomycin systemic,cancer,C62H86N12O16
+Toposar,etoposide systemic,cancer,C29H32O13
+Etopophos,etoposide systemic,cancer,C29H33O16P
+vinblastine,vinblastine systemic,cancer,C46H58N4O9
+chlorambucil,chlorambucil systemic,cancer,C14H19Cl2NO2
+Ifex,ifosfamide systemic,cancer,C7H15Cl2N2O2P
+dactinomycin,dactinomycin systemic,cancer,C62H86N12O16
+Hycamtin,topotecan systemic,cancer,C23H24ClN3O5
+ifosfamide,ifosfamide systemic,cancer,C7H15Cl2N2O2P
+topotecan,topotecan systemic,cancer,C23H23N3O5
+fludarabine,fludarabine systemic,cancer,C10H12FN5O4
+Tepadina,thiotepa systemic,cancer,C6H12N3PS
+thiotepa,thiotepa systemic,cancer,C6H12N3PS
+aspirin,aspirin systemic,Heart Attack,C9H8O4
+clopidogrel,clopidogrel systemic,Heart Attack,C16H16ClNO2S
+Plavix,clopidogrel systemic,Heart Attack,C16H18ClNO6S2
+metoprolol,metoprolol systemic,Heart Attack,C15H25NO3
+nitroglycerin,nitroglycerin systemic,Heart Attack,C3H5N3O9
+lisinopril,lisinopril systemic,Heart Attack,C21H31N3O5
+Bayer Aspirin,aspirin systemic,Heart Attack,C9H8O4
+Lopressor,metoprolol systemic,Heart Attack,X
+Activase,alteplase systemic,Heart Attack,X
+Altace,ramipril systemic,Heart Attack,C23H32N2O5
+Coumadin,warfarin systemic,Heart Attack,C19H16O4
+ramipril,ramipril systemic,Heart Attack,C23H32N2O5
+Nitrostat,nitroglycerin systemic,Heart Attack,C3H5N3O9
+warfarin,warfarin systemic,Heart Attack,C19H16O4
+atenolol,atenolol systemic,Heart Attack,C14H22N2O3
+Ecotrin,aspirin systemic,Heart Attack,C9H8O4
+Zestril,lisinopril systemic,Heart Attack,C21H31N3O5
+Brilinta,ticagrelor systemic,Heart Attack,C23H28F2N6O4S
+Easprin,aspirin systemic,Heart Attack,C9H8O4
+enoxaparin,enoxaparin systemic,Heart Attack,C26H42N2O37S5
+Prinivil,lisinopril systemic,Heart Attack,C21H31N3O5
+Lovenox,enoxaparin systemic,Heart Attack,C26H42N2O37S5
+Arthritis Pain,aspirin systemic,Heart Attack,X
+Aspir-Low,aspirin systemic,Heart Attack,X
+Bayer Aspirin Regimen,aspirin systemic,Heart Attack,C9H8O4
+propranolol,propranolol systemic,Heart Attack,C16H21NO2
+Tenormin,atenolol systemic,Heart Attack,C14H22N2O3
+Ascriptin,aspirin systemic,Heart Attack,X
+Aspergum,aspirin systemic,Heart Attack,X
+Ecpirin,aspirin systemic,Heart Attack,X
+Entercote,aspirin systemic,Heart Attack,X
+Genacote,aspirin systemic,Heart Attack,X
+Halfprin,aspirin systemic,Heart Attack,X
+Qbrelis,lisinopril systemic,Heart Attack,C21H31N3O5
+Toprol-XL,metoprolol systemic,Heart Attack,C15H25NO3
+Vazalore,aspirin systemic,Heart Attack,C9H8O4
+Aspiritab,aspirin systemic,Heart Attack,X
+Aspirtab,aspirin systemic,Heart Attack,X
+Bayer Aspirin Extra Strength Plus,aspirin systemic,Heart Attack,X
+heparin,heparin systemic,Heart Attack,X
+Norwich Aspirin,aspirin systemic,Heart Attack,X
+alteplase,alteplase systemic,Heart Attack,X
+Jantoven,warfarin systemic,Heart Attack,C19H15NaO4
+Nitro-Bid,nitroglycerin systemic,Heart Attack,C3H5N3O9
+Nitro-Dur,nitroglycerin systemic,Heart Attack,C3H5N3O9
+prasugrel,prasugrel systemic,Heart Attack,C20H20FNO3S
+ticagrelor,ticagrelor systemic,Heart Attack,C23H28F2N6O4S
+valsartan,valsartan systemic,Heart Attack,C24H29N5O3
+Effient,prasugrel systemic,Heart Attack,C20H20FNO3S
+Fragmin,dalteparin systemic,Heart Attack,C26H42N2O37S5
+Integrilin,eptifibatide systemic,Heart Attack,C35H49N11O9S2
+Nitrolingual Pumpspray,nitroglycerin systemic,Heart Attack,C3H5N3O9
+perindopril,perindopril systemic,Heart Attack,C19H32N2O5
+dalteparin,dalteparin systemic,Heart Attack,C26H42N2O37S5
+Diovan,valsartan systemic,Heart Attack,C24H29N5O3
+eptifibatide,eptifibatide systemic,Heart Attack,C35H49N11O9S2
+fondaparinux,fondaparinux systemic,Heart Attack,C31H53N3O49S8
+magnesium chloride,magnesium chloride systemic,Heart Attack,Cl2Mg
+Minitran,nitroglycerin systemic,Heart Attack,C3H5N3O9
+moexipril,moexipril systemic,Heart Attack,C27H34N2O7
+Nitro-Time,nitroglycerin systemic,Heart Attack,C3H5N3O9
+NitroMist,nitroglycerin systemic,Heart Attack,C3H5N3O9
+Nitro TD Patch-A,nitroglycerin systemic,Heart Attack,X
+Retavase,reteplase systemic,Heart Attack,C8H15NO2
+reteplase,reteplase systemic,Heart Attack,X
+tenecteplase,tenecteplase systemic,Heart Attack,X
+timolol,timolol systemic,Heart Attack,C13H24N4O3S
+TNKase,tenecteplase systemic,Heart Attack,X
+trandolapril,trandolapril systemic,Heart Attack,C24H34N2O5
+urokinase,urokinase systemic,Heart Attack,C14H14N4O2S
+Chloromag,magnesium chloride systemic,Heart Attack,X
+Retavase Half-Kit,reteplase systemic,Heart Attack,X
+dexamethasone,dexamethasone systemic,pulmonary-tuberculosis,C22H29FO5
+Dexamethasone Intensol,dexamethasone systemic,pulmonary-tuberculosis,C22H29FO5
+De-Sone LA,dexamethasone systemic,pulmonary-tuberculosis,X
+HiDex,dexamethasone systemic,pulmonary-tuberculosis,X
+Dxevo,dexamethasone systemic,pulmonary-tuberculosis,C22H29FO5
+isoniazid / pyrazinamide / rifampin,isoniazid / pyrazinamide / rifampin systemic,tuberculosis-active,X
+ethambutol,ethambutol systemic,tuberculosis-active,C10H24N2O2
+isoniazid,isoniazid systemic,tuberculosis-active,C6H7N3O
+rifampin,rifampin systemic,tuberculosis-active,C43H58N4O12
+pyrazinamide,pyrazinamide systemic,tuberculosis-active,C5H5N3O
+levofloxacin,levofloxacin systemic,tuberculosis-active,C18H20FN3O4
+isoniazid / rifampin,isoniazid / rifampin systemic,tuberculosis-active,X
+ciprofloxacin,ciprofloxacin systemic,tuberculosis-active,C17H18FN3O3
+Cipro,ciprofloxacin systemic,tuberculosis-active,C17H18FN3O3
+Rifater,isoniazid / pyrazinamide / rifampin systemic,tuberculosis-active,X
+streptomycin,streptomycin systemic,tuberculosis-active,C21H39N7O12
+moxifloxacin,moxifloxacin systemic,tuberculosis-active,C21H24FN3O4
+Avelox,moxifloxacin systemic,tuberculosis-active,C21H25ClFN3O4
+Levaquin,levofloxacin systemic,tuberculosis-active,C18H20FN3O4
+amikacin,amikacin systemic,tuberculosis-active,C22H43N5O13
+Cipro I.V.,ciprofloxacin systemic,tuberculosis-active,X
+Cipro XR,ciprofloxacin systemic,tuberculosis-active,C17H18FN3O3
+Myambutol,ethambutol systemic,tuberculosis-active,C10H24N2O2
+Rifadin,rifampin systemic,tuberculosis-active,C43H58N4O12
+Rifamate,isoniazid / rifampin systemic,tuberculosis-active,C49H65N7O13
+Rimactane,rifampin systemic,tuberculosis-active,C43H58N4O12
+cycloserine,cycloserine systemic,tuberculosis-active,C3H6N2O2
+Priftin,rifapentine systemic,tuberculosis-active,C47H64N4O12
+Seromycin,cycloserine systemic,tuberculosis-active,C3H6N2O2
+aminosalicylic acid,aminosalicylic acid systemic,tuberculosis-active,C7H7NO3
+rifapentine,rifapentine systemic,tuberculosis-active,C47H64N4O12
+Avelox I.V.,moxifloxacin systemic,tuberculosis-active,X
+ethionamide,ethionamide systemic,tuberculosis-active,C8H10N2S
+ofloxacin,ofloxacin systemic,tuberculosis-active,C18H20FN3O4
+Paser,aminosalicylic acid systemic,tuberculosis-active,C7H7NO3
+Rifadin IV,rifampin systemic,tuberculosis-active,C43H58N4O12
+Trecator,ethionamide systemic,tuberculosis-active,C8H10N2S
+prednisone,prednisone systemic,tuberculosis-extrapulmonary,C21H26O5
+cycloserine,cycloserine systemic,tuberculosis-extrapulmonary,C3H6N2O2
+Seromycin,cycloserine systemic,tuberculosis-extrapulmonary,C3H6N2O2
+Mycobutin,rifabutin systemic,tuberculosis-hiv-positive,C46H62N4O11
+rifabutin,rifabutin systemic,tuberculosis-hiv-positive,C46H62N4O11
+isoniazid,isoniazid systemic,tuberculosis-latent,C6H7N3O
+rifampin,rifampin systemic,tuberculosis-latent,C43H58N4O12
+Rifadin,rifampin systemic,tuberculosis-latent,C43H58N4O12
+pyrazinamide,pyrazinamide systemic,tuberculosis-latent,C5H5N3O
+Rimactane,rifampin systemic,tuberculosis-latent,C43H58N4O12
+Priftin,rifapentine systemic,tuberculosis-latent,C47H64N4O12
+Rifadin IV,rifampin systemic,tuberculosis-latent,C43H58N4O12
+rifapentine,rifapentine systemic,tuberculosis-latent,C47H64N4O12
+isoniazid,isoniazid systemic,tuberculosis-prophylaxis,C6H7N3O
+Rifadin,rifampin systemic,tuberculosis-prophylaxis,C43H58N4O12
+rifampin,rifampin systemic,tuberculosis-prophylaxis,C43H58N4O12
+Rimactane,rifampin systemic,tuberculosis-prophylaxis,C43H58N4O12
+Mycobutin,rifabutin systemic,tuberculosis-prophylaxis,C46H62N4O11
+bcg,bcg systemic,tuberculosis-prophylaxis,X
+rifabutin,rifabutin systemic,tuberculosis-prophylaxis,C46H62N4O11
+Rifadin IV,rifampin systemic,tuberculosis-prophylaxis,C43H58N4O12
+bcg vaccine,bcg vaccine systemic,tuberculosis-prophylaxis,X
+Sirturo,bedaquiline systemic,tuberculosis-resistant,C36H35BrN2O6
+bedaquiline,bedaquiline systemic,tuberculosis-resistant,C32H31BrN2O2
+pretomanid,pretomanid systemic,tuberculosis-resistant,C14H12F3N3O5
+Paser,aminosalicylic acid systemic,tuberculosis-resistant,C7H7NO3
+aminosalicylic acid,aminosalicylic acid systemic,tuberculosis-resistant,C7H7NO3
+Adriamycin,X,Cancer,C27H29NO11
+Amaryl,X,Diabetes,C24H34N4O5S
+Amaryl M,X,Diabetes,C28H46ClN9O5S
+Betaloc,X,Heart attack,C34H56N2O12
+Cacit,X,Cancer,CCaO3
+Cilnidipine,X,Heart attack,C27H28N2O7
+Dopamine,X,Diabetes,C8H11NO2
+Diamet,X,Diabetes,C17H14Cl3NaO6
+Def,X,Cancer,C12H27OPS3
+Diamicron,X,Diabetes,C15H21N3O3S
+Dapa,X,Diabetes,C9H20N2O2
+Erbitux,X,Cancer,C17H23NO2
+Escort,X,Cancer,C14H15N5O6S
+Endoxan,X,Cancer,C7H15Cl2N2O2P
+Encelin,X,Diabetes,C15H16O3
+Fluracil,X,Cancer,C4H3FN2O2
+Forxiga,X,Diabetes,C21H25ClO6
+Glivec,X,Cancer,C30H35N7O4S
+Glp,X,Diabetes,C5H7NO3
+Glucotrol,X,Diabetes,C21H27N5O4S
+Glimepride,X,Diabetes,C24H34N4O5S
+Gluformin,X,Diabetes,C4H12ClN5
+Gliclazide,X,Diabetes,C15H21N3O3S
+Glyxambi,X,Diabetes,C48H55ClN8O9
+Galvus,X,Diabetes,C17H25N3O2
+Holoxan,X,Cancer,C7H15Cl2N2O2P
+HS,X,Cancer,Hs
+Hmet,X,Diabetes,C5H11NO2S
+HYQ,X,Diabetes,C20H18N2O4
+HQ,X,Diabetes,C6H6O2
+Hydroquin,X,Diabetes,C12H15N
+Hycort,X,Cancer,C21H30O5
+HCQ,X,Diabetes,C18H26ClN3O
+Januvia,X,Diabetes,C16H20F6N5O6P
+Lipitor,X,Heart attack,C66H68CaF2N4O10
+Liponorm,X,Heart attack,C12H15ClO3
+Metol,X,Heart attack,C14H20N2O6S
+Mtx,X,Cancer,C20H22N8O5
+Nucort,X,Cancer,C23H32O6
+Novonorm,X,Diabetes,C27H36N2O4
+Obimet,X,Diabetes,C4H11N5
+Oracort,X,Cancer,C24H31FO6
+Oxaliplatin,X,Cancer,C8H14N2O4Pt
+Onglyza,X,Diabetes,C18H25N3O2
+Ondero,X,Diabetes,C25H28N8O2
+Qcq,X,Diabetes,C18H21ClFN5O8P2
+Qyn,X,Diabetes,C22H18ClN5O3S
+Qtern,X,Diabetes,C39H50ClN3O8
+Rybelsus,X,Diabetes,C187H291N45O59
+Telsite,X,Heart attack,C33H30N4O2
+UNIPHOS,X,Cancer,C4H7Cl2O4P
+Utl,X,Heart attack,C24H34FN3O5S2
+Valtan,X,Heart attack,C24H29N5O3
+Xigduo XR,X,Diabetes,C25H37Cl2N5O6
+Xeloda,X,Cancer,C15H22FN3O6
+Desmopressin acetate,Desmopressin,Diabetes,C46H64N14O12S2.
+Insulin human,Insulin,Diabetes,C257H383N65O77S6
+Insulin lispro,Insulin,Diabetes,C257H383N65O77S6
+Insulin aspart,Insulin,Diabetes,C256H381N65O79S6
+Insulin glulisine,Insulin,Diabetes,C258H384N64O78S6
+Insulin glargine,Insulin,Diabetes,C267H404N72O78S6
+Insulin detemir,Insulin,Diabetes,C267H402N64O76S6
+Insulin degludec,Insulin,Diabetes,C274H411N65O81S6
+Pramlintide acetate,Pramlintide,Diabetes,(C171H267N51O53S2)x.
+Dasiglucagon,Dasiglucagon,Diabetes,C152H222N38O50
+Dasiglucagon hydrochloride,Dasiglucagon,Diabetes,C152H222N38O50.
+Teplizumab,Teplizumab,Diabetes,C6462H9938N1738O2022S46
+Donislecel,Donislecel,Diabetes,C6462H9938N1738O2022S46
+Insulin glargine and lixisenatide,Insulin,Diabetes,X
+Insulin degludec and liraglutide,Insulin,Diabetes,X
+Metformin hydrochloride,Metformin,Diabetes,C4H11N5.
+Glyburide,Glyburide,Diabetes,C23H28ClN3O5S
+Chlorpropamide,Chlorpropamide,Diabetes,C10H13ClN2O3S
+Tolbutamide,Tolbutamide,Diabetes,C12H18N2O3S
+Tolazamide,Tolazamide,Diabetes,C14H21N3O3S
+Glipizide,Glipizide,Diabetes,C21H27N5O4S
+Glimepiride,Glimepiride,Diabetes,C24H34N4O5S
+Glipizide and metformin hydrochloride,Glipizide,Diabetes,X
+Glyburide and metformin hydrochloride,Glyburide,Diabetes,X
+Metformin hydrochloride and rosiglitazone maleate,Metformin,Diabetes,X
+Pioglitazone hydrochloride and metformin hydrochloride,Pioglitazone,Diabetes,X
+Pioglitazone hydrochloride and glimepiride tablets,Pioglitazone,Diabetes,X
+Metformin hydrochloride and sitagliptin phosphate,Metformin,Diabetes,X
+Alogliptin benzoate and pioglitazone hydrochloride,Alogliptin,Diabetes,X
+Metformin hydrochloride and saxagliptin hydrochloride,Metformin,Diabetes,X
+Linagliptin and metformin hydrochloride,Linagliptin,Diabetes,X
+Alogliptin benzoate and metformin hydrochloride,Alogliptin,Diabetes,X
+Metformin hydrochloride and repaglinide,Metformin,Diabetes,X
+Dapagliflozin and metformin,Dapagliflozin,Diabetes,X
+Canagliflozin and metformin,Canagliflozin,Diabetes,X
+Empagliflozin and linagliptin,Empagliflozin,Diabetes,X
+Empagliflozin and metformin,Empagliflozin,Diabetes,X
+Saxagliptin and dapagliflozin,Saxagliptin,Diabetes,X
+Ertugliflozin and metformin,Ertugliflozin,Diabetes,X
+Ertugliflozin and sitagliptin,Ertugliflozin,Diabetes,X
+"Dapagliflozin, metformin and saxagliptin","Dapagliflozin,",Diabetes,X
+"Empagliflozin, linagliptin and metformin hydrochloride","Empagliflozin,",Diabetes,X
+Acarbose,Acarbose,Diabetes,C25H43NO18
+Miglitol,Miglitol,Diabetes,C8H17NO5
+Rosiglitazone maleate,Rosiglitazone,Diabetes,C18H19N3O3S.
+Pioglitazone hydrochloride,Pioglitazone,Diabetes,C19H20N2O3S.
+Sitagliptin phosphate,Sitagliptin,Diabetes,C16H15F6N5O.
+Alogliptin benzoate,Alogliptin,Diabetes,C18H21N5O2.
+Linagliptin,Linagliptin,Diabetes,C25H28N8O2
+Teneligliptin hydrobromide hydrate,Teneligliptin,Diabetes,(C22H30N6OS)2.
+Exenatide,Exenatide,Diabetes,C184H282N50O60S
+Liraglutide,Liraglutide,Diabetes,C172H265N43O51
+Lixisenatide,Lixisenatide,Diabetes,C215H347N61O65S
+Albiglutide,Albiglutide,Diabetes,C3232H5032N864O979S41
+Dulaglutide,Dulaglutide,Diabetes,C2646H4044N704O836S18
+Semaglutide,Semaglutide,Diabetes,C187H291N45O59
+Dapagliflozin propanediol,Dapagliflozin,Diabetes,C21H25ClO6.
+Canagliflozin,Canagliflozin,Diabetes,(C24H25FO5S)2.
+Empagliflozin,Empagliflozin,Diabetes,C23H27ClO7
+Ertugliflozin pidolate,Ertugliflozin,Diabetes,C22H25ClO7.
+Repaglinide,Repaglinide,Diabetes,C27H36N2O4
+Nateglinide,Nateglinide,Diabetes,C19H27NO3
+Tirzepatide,Tirzepatide,Diabetes,C225H348N48O68
+Colesevelam hydrochloride,Colesevelam,Diabetes,(C3H7N)m.
+Anagliptin,Anagliptin,Diabetes,C19H25N7O2
+Mitiglinide calcium hydrate and voglibose,Mitiglinide,Diabetes,X
+Trelagliptin succinate,Trelagliptin,Diabetes,C18H20FN5O2.
+Omarigliptin,Omarigliptin,Diabetes,C17H20F2N4O3S
+Bexagliflozin,Bexagliflozin,Diabetes,C24H29ClO7
+glymidine sodium,Glymidine,Diabetes,C13H14N3O4S.Na
+saxagliptin hydrate,Saxagliptin,Diabetes,C18H27N3O3
+streptozocin,Streptozocin,Diabetes,C8H15N3O7
+alogliptin benzoate,Alogliptin,Diabetes,C25H27N5O4
+glipizide,Glipizide,Diabetes,C21H27N5O4S
+tolazamide,Tolazamide,Diabetes,C14H21N3O3S
+canagliflozin hydrate,Canagliflozin,Diabetes,C48H52F2O11S2
+canagliflozin,Canagliflozin,Diabetes,C24H25FO5S
+(R)-lisofylline,X,Diabetes,C13H20N4O3
+glymidine,Glymidine,Diabetes,C13H15N3O4S
+2-hydroxybutyric acid,X,Diabetes,C4H8O3
+linagliptin,Linagliptin,Diabetes,C25H28N8O2
+saxagliptin,Saxagliptin,Diabetes,C18H25N3O2
+alogliptin,Alogliptin,Diabetes,C18H21N5O2
+dapagliflozin propanediol monohydrate,Dapagliflozin,Diabetes,C24H35ClO9
+semaglutide,Semaglutide,Diabetes,C187H291N45O59
+dapagliflozin,Dapagliflozin,Diabetes,C21H25ClO6
+meldonium,Meldonium,Diabetes,C6H14N2O2
+chlorpropamide,Chlorpropamide,Diabetes,C10H13ClN2O3S
+salsalate,Salsalate,Diabetes,C14H10O5
+nateglinide,Nateglinide,Diabetes,C19H27NO3
+desmopressin acetate trihydrate,Desmopressin,Diabetes,C48H74N14O17S2
+liraglutide,Liraglutide,Diabetes,C172H265N43O51
+tirzepatide,Tirzepatide,Diabetes,C225H348N48O68
+empagliflozin,Empagliflozin,Diabetes,C23H27ClO7
+saroglitazar,X,Diabetes,C25H29NO4S
+bexagliflozin,Bexagliflozin,Diabetes,C24H29ClO7
+trifloroside,X,Diabetes,C35H42O20
+sotagliflozin,Sotagliflozin,Diabetes,C21H25ClO5S
+desmopressin,Desmopressin,Diabetes,C46H64N14O12S2
+insulin (human),X,Diabetes,C257H383N65O77S6
+fenfluramine hydrochloride,Dexfenfluramine,Diabetes,C12H17ClF3N
+fenfluramine,Dexfenfluramine,Diabetes,C12H16F3N
+lixisenatide,Lixisenatide,Diabetes,C215H347N61O65S
+Methotrexate sodium,Methotrexate,Cancer,C20H21N8O5.
+Etoposide,Etoposide,Cancer,C29H32O13
+Etoposide phosphate,Etoposide,Cancer,C29H33O16P
+Topotecan hydrochloride,Topotecan,Cancer,C23H23N3O5.
+Nivolumab,Nivolumab,Cancer,C6362H9862N1712O1995S42
+Durvalumab,Durvalumab,Cancer,X
+Atezolizumab,Atezolizumab,Cancer,C6446H9902N1706O1998S42
+Lurbinectedin,Lurbinectedin,Cancer,C41H44N4O10S
+Trilaciclib dihydrochloride,Trilaciclib,Cancer,C24H30N8O.
+Pemetrexed sodium hydrate,Pemetrexed,Cancer,C20H19N5O6.
+Gemcitabine hydrochloride,Gemcitabine,Cancer,C9H11F2N3O4.
+Vinorelbine tartrate,Vinorelbine,Cancer,C45H54N4O8.
+Paclitaxel,Paclitaxel,Cancer,C47H51NO14
+Docetaxel,Docetaxel,Cancer,C43H53NO14
+Docetaxel,Docetaxel,Cancer,C43H53NO14.
+Gefitinib,Gefitinib,Cancer,C22H24ClFN4O3
+Erlotinib hydrochloride,Erlotinib,Cancer,C22H23N3O4.
+Afatinib dimaleate,Afatinib,Cancer,C24H25ClFN5O3.
+Osimertinib mesylate,Osimertinib,Cancer,C28H33N7O2.
+Dacomitinib,Dacomitinib,Cancer,C24H25ClFN5O2.
+Mobocertinib succinate,Mobocertinib,Cancer,C32H39N7O4.
+Dabrafenib mesylate,Dabrafenib,Cancer,C23H20F3N5O2S2.
+Crizotinib,Crizotinib,Cancer,C21H22Cl2FN5O
+Ceritinib,Ceritinib,Cancer,C28H36ClN5O3S
+Alectinib hydrochloride,Alectinib,Cancer,C30H34N4O2.
+Brigatinib,Brigatinib,Cancer,C29H39ClN7O2P
+Lorlatinib,Lorlatinib,Cancer,C21H19FN6O2
+Trametinib dimethyl sulfoxide,Trametinib,Cancer,C26H23FIN5O4.
+Entrectinib,Entrectinib,Cancer,C31H34F2N6O2
+Capmatinib hydrochloride,Capmatinib,Cancer,C23H17FN6O.
+Tepotinib hydrochloride,Tepotinib,Cancer,C29H28N6O2.
+Selpercatinib,Selpercatinib,Cancer,C29H31N7O3
+Pralsetinib,Pralsetinib,Cancer,C27H32FN9O2
+Necitumumab,Necitumumab,Cancer,X
+Pembrolizumab,Pembrolizumab,Cancer,C6504H10004N1716O2036S46
+Cemiplimab,Cemiplimab,Cancer,X
+Bevacizumab,Bevacizumab,Cancer,C6638H10160N1720O2108S44
+Ramucirumab,Ramucirumab,Cancer,C6374H9864N1692O1996S46
+Amivantamab,Amivantamab,Cancer,C6472H10014N1730O2023S46
+Tremelimumab,Tremelimumab,Cancer,C6500H9974N1726O2026S52
+Sotorasib,Sotorasib,Cancer,C30H30F2N6O3
+Adagrasib,Adagrasib,Cancer,C32H35ClFN7O2
+Capecitabine,Capecitabine,Cancer,C15H22FN3O6
+Floxuridine,Floxuridine,Cancer,C9H11FN2O5
+Porfimer sodium,Porfimer,Cancer,X
+Trifluridine and tipiracil hydrochloride,Trifluridine,Cancer,X
+Doxorubicin hydrochloride,Doxorubicin,Cancer,C27H29NO11.
+Mitomycin,Mitomycin,Cancer,C15H18N4O5
+Trastuzumab,Trastuzumab,Cancer,X
+Irinotecan hydrochloride,Irinotecan,Cancer,C33H38N4O6.
+Olaparib,Olaparib,Cancer,C24H23FN4O3
+Encorafenib,Encorafenib,Cancer,C22H27ClFN7O4S
+Regorafenib hydrate,Regorafenib,Cancer,C21H15ClF4N4O3.
+Cetuximab,Cetuximab,Cancer,X
+Panitumumab,Panitumumab,Cancer,X
+Oxaliplatin,Oxaliplatin,Cancer,Pt.
+Aflibercept,Aflibercept,Cancer,C4318H6788N1164O1304S32
+Leucovorin calcium,Leucovorin,Cancer,C20H21N7O7.
+Levoleucovorin calcium,Levoleucovorin,Cancer,C20H21N7O7.
+Calcium levofolinate hydrate,Calcium,Cancer,C20H21N7O7.
+Sodium levofolinate,Sodium,Cancer,C20H21N7O7.
+Thiotepa,Thiotepa,Cancer,C6H12N3PS
+Valrubicin,Valrubicin,Cancer,C34H36F3NO13
+Erdafitinib,Erdafitinib,Cancer,C25H30N6O2
+Avelumab,Avelumab,Cancer,X
+Enfortumab vedotin,Enfortumab,Cancer,C6642H10284N1742O2063S46
+Cisplatin,Cisplatin,Cancer,PtCl2.
+Nadofaragene firadenovec,Nadofaragene,Cancer,X
+Ifosfamide,Ifosfamide,Cancer,C7H15Cl2N2O2P
+Vinblastine sulfate,Vinblastine,Cancer,C46H58N4O9.
+Dactinomycin,Dactinomycin,Cancer,C62H86N12O16
+Bleomycin sulfate,Bleomycin,Cancer,C50H71N16O21S2R.
+Estradiol valerate,Estradiol,Cancer,C23H32O3
+Cabazitaxel acetonate,Cabazitaxel,Cancer,C45H57NO14.
+Mitoxantrone hydrochloride,Mitoxantrone,Cancer,C22H28N4O6.
+Talazoparib tosylate,Talazoparib,Cancer,C19H14F2N6O.
+Estramustine phosphate sodium,Estramustine,Cancer,C23H30Cl2NO6P.
+Estramustine phosphate sodium hydrate,Estramustine,Cancer,C23H30Cl2NO6P.
+Leuprolide acetate,Leuprolide,Cancer,C59H84N16O12.
+Leuprolide mesylate,Leuprolide,Cancer,C59H84N16O12.
+Goserelin acetate,Goserelin,Cancer,C59H84N18O14.
+Triptorelin pamoate,Triptorelin,Cancer,C64H82N18O13.
+Histrelin acetate,Histrelin,Cancer,C66H86N18O12.
+Flutamide,Flutamide,Cancer,C11H11F3N2O3
+Nilutamide,Nilutamide,Cancer,C12H10F3N3O4
+Bicalutamide,Bicalutamide,Cancer,C18H14F4N2O4S
+Enzalutamide,Enzalutamide,Cancer,C21H16F4N4O2S
+Apalutamide,Apalutamide,Cancer,C21H15F4N5O2S
+Darolutamide,Darolutamide,Cancer,C19H19ClN6O2
+Degarelix acetate,Degarelix,Cancer,C82H103ClN18O16.
+Abiraterone acetate,Abiraterone,Cancer,C26H33NO2
+Relugolix,Relugolix,Cancer,C29H27F2N7O5S
+Sipuleucel-T,Sipuleucel-T,Cancer,X
+Radium Ra 223 dichloride,Radium,Cancer,RaCl2
+Lutetium Lu 177 vipivotide tetraxetan,Lutetium,Cancer,C49H65N9O16.
+"Estrogens, esterified","Estrogens,",Cancer,X
+Medroxyprogesterone acetate,Medroxyprogesterone,Cancer,C24H34O4
+Lenvatinib mesylate,Lenvatinib,Cancer,C21H19ClN4O4.
+Dostarlimab,Dostarlimab,Cancer,C6420H9832N1680O2014S44
+Cyclophosphamide,Cyclophosphamide,Cancer,C7H15Cl2N2O2P.
+Melphalan,Melphalan,Cancer,C13H18Cl2N2O2
+Carboplatin,Carboplatin,Cancer,C6H6O4Pt.
+Niraparib tosilate hydrate,Niraparib,Cancer,C19H20N4O.
+Rucaparib camsylate,Rucaparib,Cancer,C19H18FN3O.
+Altretamine,Altretamine,Cancer,C9H18N6
+Mirvetuximab soravtansine,Mirvetuximab,Cancer,X
+Imiquimod,Imiquimod,Cancer,C14H16N4
+Recombinant adsorbed quadrivalent human papillomavirus virus-like particle vaccine,Recombinant,Cancer,X
+"Human papillomavirus 9-valent vaccine, recombinant",Human,Cancer,X
+Tisotumab vedotin,Tisotumab,Cancer,C6418H9906N1710O2022S44.(C68H106N11O15)n
+Fluoxymesterone,Fluoxymesterone,Cancer,C20H29FO3
+Methyltestosterone,Methyltestosterone,Cancer,C20H30O2
+Testosterone enanthate,Testosterone,Cancer,C26H40O3
+Epirubicin hydrochloride,Epirubicin,Cancer,C27H29NO11.
+Ixabepilone,Ixabepilone,Cancer,C27H42N2O5S
+Palbociclib,Palbociclib,Cancer,C24H29N7O2
+Ribociclib succinate,Ribociclib,Cancer,C23H30N8O.
+Abemaciclib,Abemaciclib,Cancer,C27H32F2N8
+Everolimus,Everolimus,Cancer,C53H83NO14
+Lapatinib ditosylate,Lapatinib,Cancer,C29H26ClFN4O4S.
+Neratinib maleate,Neratinib,Cancer,C30H29ClN6O3.
+Tucatinib,Tucatinib,Cancer,C26H24N8O2
+Alpelisib,Alpelisib,Cancer,C19H22F3N5O2S
+Trastuzumab and hyaluronidase,Trastuzumab,Cancer,X
+Pertuzumab,Pertuzumab,Cancer,X
+Trastuzumab emtansine,Trastuzumab,Cancer,C6448H9948N1720O2012S44
+Trastuzumab deruxtecan,Trastuzumab,Cancer,C6460H9972N1724O2014S44.
+Margetuximab,Margetuximab,Cancer,C6484H10010N1726O2024S42
+Sacituzumab govitecan,Sacituzumab,Cancer,X
+Eribulin mesylate,Eribulin,Cancer,C40H59NO11.
+"Pertuzumab, trastuzumab and hyaluronidase","Pertuzumab,",Cancer,X
+Tamoxifen citrate,Tamoxifen,Cancer,C26H29NO.
+Toremifene citrate,Toremifene,Cancer,C26H28ClNO.
+Fulvestrant,Fulvestrant,Cancer,C32H47F5O3S
+Anastrozole,Anastrozole,Cancer,C17H19N5
+Letrozole,Letrozole,Cancer,C17H11N5
+Exemestane,Exemestane,Cancer,C20H24O2
+Letrozole and ribociclib,Letrozole,Cancer,X
+Elacestrant hydrochloride,Elacestrant,Cancer,C30H38N2O2.
+Sorafenib tosylate,Sorafenib,Cancer,C21H16ClF3N4O3.
+Cabozantinib s-malate,Cabozantinib,Cancer,C28H24FN3O5.
+Ipilimumab,Ipilimumab,Cancer,C6472H9972N1732O2004S40
+MAITHREYEE_S_C1,X,Cancer,C21H19F2N5O5.Li.Na
+GayathriK_2023_C_1,X,Cancer,C19H13ClN2O
+D-prolinol,X,Cancer,C5H11NO
+gemcitabine,Gemcitabine,Cancer,C9H11F2N3O4
+6-methylthioguanine,X,Cancer,C6H7N5S
+(-)-annonaine,X,Cancer,C17H15NO2
+gemcitabine hydrochloride,Gemcitabine,Cancer,C9H11F2N3O4.HCl
+oxaliplatin,Oxaliplatin,Cancer,C6H14N2.C2O4.Pt
+hedychilactone D,X,Cancer,C20H26O4
+9-hydroxy hedychenone,X,Cancer,C20H26O3
+1-docosene,X,Cancer,C22H44
+triethylene glycol monomethyl ether,X,Cancer,C7H16O4
+methyl phenylglyoxalate,X,Cancer,C9H8O3
+ethyl phenylglyoxylate,X,Cancer,C10H10O3
+isobutyric acid anhydride,X,Cancer,C8H14O3
+docetaxel trihydrate,Docetaxel,Cancer,C43H59NO17
+vincristine,Vincristine,Cancer,C46H56N4O10
+deacetyltanghinin,X,Cancer,C30H44O9
+moromycin B,X,Cancer,C31H30O10
+amrubicin,Amrubicin,Cancer,C25H25NO9
+oncrasin-1,X,Cancer,C16H12ClNO
+eupatolide,X,Cancer,C15H20O3
+fucoxanthin,X,Cancer,C42H58O6
+glaucarubinone,X,Cancer,C25H34O10
+pipobroman,Pipobroman,Cancer,C10H16Br2N2O2
+epi-tulipinolide,X,Cancer,C17H22O4
+N-acetyl-L-serine,X,Cancer,C5H9NO4
+elaeodendroside T,X,Cancer,C32H44O10
+rediocide G,X,Cancer,C46H54O13
+trichothecin,X,Cancer,C19H24O5
+pazopanib hydrochloride,Pazopanib,Cancer,C21H24ClN7O2S
+retaspimycin hydrochloride,Retaspimycin,Cancer,C31H46ClN3O8
+XL147,X,Cancer,C21H16N6O2S2
+WR-1065,X,Cancer,C5H14N2S
+hypothemycin,X,Cancer,C19H22O8
+trabectedin,Trabectedin,Cancer,C39H43N3O11S
+"(2R,3S)-2-methyl-3-propyloxirane",X,Cancer,C6H12O
+(4E)-7-methyldec-4-ene,X,Cancer,C11H22
+11-nitro-1-undecene,X,Cancer,C11H21NO2
+1-ethyl-2-propylcyclohexane,X,Cancer,C11H22
+1-iodo-2-methylundecane,X,Cancer,C12H25I
+"4,6,8-trimethyl-1-nonene",X,Cancer,C12H24
+2-(4-methoxyphenyl)propan-2-ol,X,Cancer,C10H14O2
+"(3E)-2,3,4-trimethylhex-3-enal",X,Cancer,C9H16O
+"2,3,5,8-tetramethyldecane",X,Cancer,C14H30
+"2,4,4-trimethylpentane-1,3-diyl bis(2-methylpropanoate)",X,Cancer,C16H30O4
+"2,6,10,14-tetramethylheptadecane",X,Cancer,C21H44
+"2,6,10,15-tetramethylheptadecane",X,Cancer,C21H44
+"(3E)-2,6-dimethyloct-3-ene",X,Cancer,C10H20
+2-butyl-1-octanol,X,Cancer,C12H26O
+2-methylbutan-2-amine,X,Cancer,C5H13N
+"3,5-dimethyloctane",X,Cancer,C10H22
+"3,7,11-trimethyldodecan-1-ol",X,Cancer,C15H32O
+"3,7-dimethyl-3-octanol",X,Cancer,C10H22O
+"3,8-dimethylundecane",X,Cancer,C13H28
+"2,4-dimethylpentan-3-amine",X,Cancer,C7H17N
+pentan-3-amine,X,Cancer,C5H13N
+"4,6-dimethyldodecane",X,Cancer,C14H30
+4-methylundecane,X,Cancer,C12H26
+5-methyldec-1-ene,X,Cancer,C11H22
+isopropyl palmitate,Isopropyl,Cancer,C19H38O2
+N-methylbutan-2-amine,X,Cancer,C5H13N
+nonanal,X,Cancer,C9H18O
+N-propylbenzamide,X,Cancer,C10H13NO
+dodecamethylpentasiloxane,X,Cancer,C12H36O4Si5
+"(2,3-diphenylcyclopropyl)methyl phenyl sulfoxide",X,Cancer,C22H20OS
+2-methyltridecane,X,Cancer,C14H30
+vinyl benzoate,X,Cancer,C9H8O2
+nintedanib,Nintedanib,Cancer,C31H33N5O4
+Ki11502,X,Cancer,C26H23N3O4S
+HG-9-91-01,X,Cancer,C32H37N7O3
+BPDZ 711,X,Cancer,C24H28N4O4
+gemini-0072,X,Cancer,C32H38D6F6O4
+gemini-0097,X,Cancer,C32H44F6O4
+Myricanone,X,Cancer,C21H24O5
+talaroconvolutin A,X,Cancer,C32H41NO3
+"L-778,123 hydrochloride",X,Cancer,C22H20ClN5O.ClH
+oviedomycin,X,Cancer,C19H10O7
+heptanal,X,Cancer,C7H14O
+moromycin A,X,Cancer,C43H46O14
+phakellistatin 14,X,Cancer,C36H53N7O10S
+abiraterone,Abiraterone,Cancer,C24H31NO
+"N(1)-isopropyl-2-methylpropan-1,2-diamine",X,Cancer,C7H18N2
+2-hydroxyoleic acid,X,Cancer,C18H34O3
+amifostine,Amifostine,Cancer,C5H15N2O3PS
+nonadecanoic acid,X,Cancer,C19H38O2
+brevipolide A,X,Cancer,C23H24O8
+caseamemebrol A,X,Cancer,C29H42O8
+caseamemebrol B,X,Cancer,C29H42O9
+caseanigrescen A,X,Cancer,C30H42O10
+caseanigrescen B,X,Cancer,C28H40O9
+caseanigrescen C,X,Cancer,C30H42O10
+caseanigrescen D,X,Cancer,C28H40O8
+dianversicoside A,X,Cancer,C60H94O30
+dianversicoside B,X,Cancer,C60H94O30
+dianversicoside C,X,Cancer,C66H104O34
+dianversicoside D,X,Cancer,C60H94O29
+dianversicoside E,X,Cancer,C60H96O31
+dianversicoside F,X,Cancer,C54H86O26
+dianversicoside G,X,Cancer,C59H94O29
+elaeodendroside B,X,Cancer,C29H40O8
+elaeodendroside F,X,Cancer,C31H42O10
+elaeodendroside G,X,Cancer,C31H42O10
+gummiferaoside A,X,Cancer,C102H162O48
+gummiferaoside B,X,Cancer,C102H162O48
+gummiferaoside C,X,Cancer,C113H178O50
+tanghinin,X,Cancer,C32H46O10
+"robustaflavone 7,4',7''-trimethyl ether",X,Cancer,C33H24O10
+migrastatin,X,Cancer,C27H39NO7
+lissoclibadin 1,X,Cancer,C39H57N3O6S7
+lissoclibadin 2,X,Cancer,C26H38N2O4S5
+9-methoxycanthin-6-one,X,Cancer,C15H10N2O2
+cochinchinoxanthone,X,Cancer,C23H24O6
+breynceanothanolic acid,X,Cancer,C29H40O5
+"(2S)-5,7,3'-trihydroxy-4'-methoxy-8-(3''-methylbut-2''-enyl)-flavonone",X,Cancer,C21H22O6
+pazopanib,Pazopanib,Cancer,C21H23N7O2S
+retaspimycin,Retaspimycin,Cancer,C31H45N3O8
+cabozantinib malate,Cabozantinib,Cancer,C32H30FN3O10
+englerin A,X,Cancer,C26H34O6
+fumitremorgin C,X,Cancer,C22H25N3O3
+"N,N-dimethylacetamide",X,Cancer,C4H9NO
+allyl octadecyl oxalate,X,Cancer,C23H42O4
+trichloro(docosyl)silane,X,Cancer,C22H45Cl3Si
+"1,1,3,3-tetramethylurea",X,Cancer,C5H12N2O
+nintedanib esylate,Nintedanib,Cancer,C33H39N5O7S
+satraplatin,Satraplatin,Cancer,C10H22Cl2N2O4Pt
+BDA-366,X,Cancer,C24H29N3O4
+tipiracil hydrochloride,Tipiracil,Cancer,C9H12Cl2N4O2
+rolapitant hydrochloride hydrate,X,Cancer,C25H29ClF6N2O3
+rigosertib sodium,Rigosertib,Cancer,C21H24NO8S.Na
+indisulam,Indisulam,Cancer,C14H12ClN3O4S2
+amrubicinol,X,Cancer,C25H27NO9
+YM-216391,X,Cancer,C34H32N8O7S
+2-amino-4-(3-nitrophenyl)-3-cyano-7-(dimethylamino)-4H-chromene,X,Cancer,C18H16N4O3
+triapine,X,Cancer,C7H9N5S
+tasquinimod,X,Cancer,C20H17F3N2O4
+"2,3-DCPE hydrochloride",X,Cancer,C11H15Cl2NO2.ClH
+exemestane,Exemestane,Cancer,C20H24O2
+ifosfamide,Ifosfamide,Cancer,C7H15Cl2N2O2P
+megestrol acetate,Megestrol,Cancer,C24H32O4
+biochanin A,X,Cancer,C16H12O5
+kaempferol,X,Cancer,C15H10O6
+gamma-tocotrienol,X,Cancer,C28H42O2
+paclitaxel,Paclitaxel,Cancer,C47H51NO14
+vandetanib,Vandetanib,Cancer,C22H24BrFN4O2
+PP121,X,Cancer,C17H17N7
+"3',5'-di-O-methyltricetin",X,Cancer,C17H14O7
+alectinib hydrochloride,Alectinib,Cancer,C30H35ClN4O2
+abyssinone A,X,Cancer,C20H18O5
+abyssinone C,X,Cancer,C20H20O7
+apratoxin E,X,Cancer,C43H65N5O7S
+brevipolide B,X,Cancer,C23H24O8
+cratoxyarborenone F,X,Cancer,C14H10O5
+"3beta,12-dihydroxy-13-methyl-6,8,11,13-podocarpatetraene",X,Cancer,C18H24O2
+lyratol D,X,Cancer,C15H20O3
+nitensidine E,X,Cancer,C11H19N3
+pescaprein XXI,X,Cancer,C72H116O25
+pescaprein XXII,X,Cancer,C72H116O25
+pescaprein XXIII,X,Cancer,C70H112O25
+pescaprein XXIV,X,Cancer,C70H112O25
+pescaprein XXV,X,Cancer,C71H114O25
+pescaprein XXVI,X,Cancer,C69H110O25
+pescaprein XXVII,X,Cancer,C65H102O25
+pescaprein XXVIII,X,Cancer,C68H108O25
+pescaprein XXIX,X,Cancer,C66H104O25
+pescaprein XXX,X,Cancer,C61H106O24
+enzalutamide,Enzalutamide,Cancer,C21H16F4N4O2S
+abiraterone acetate,Abiraterone,Cancer,C26H33NO2
+regorafenib hydrate,Regorafenib,Cancer,C21H17ClF4N4O4
+globosumone A,X,Cancer,C13H14O5
+globosumone B,X,Cancer,C13H16O6
+"7,3',4'-trihydroxy-3,8-dimethoxyflavone",X,Cancer,C17H14O7
+"(2S)-5,7,3',5'-tetrahydroxy-8-[3'',8''-dimethylocta-2''(E),7''-dienyl]flavonone",X,Cancer,C25H28O6
+dactolisib,Dactolisib,Cancer,C30H23N5O
+XL765,X,Cancer,C31H29N5O6S
+"1,2-dimethylhydrazine",X,Cancer,C2H8N2
+afatinib dimaleate,Afatinib,Cancer,C32H33ClFN5O11
+rac-crizotinib,X,Cancer,C21H22Cl2FN5O
+papuamide B,X,Cancer,C65H103N13O21
+olaparib,Olaparib,Cancer,C24H23FN4O3
+torin 1,Ezetimibe,Cancer,C35H28F3N5O2
+palonosetron hydrochloride,Palonosetron,Cancer,C19H25ClN2O
+palonosetron,Palonosetron,Cancer,C19H24N2O
+lenvatinib,Lenvatinib,Cancer,C21H19ClN4O4
+lenvatinib mesylate,Lenvatinib,Cancer,C22H23ClN4O7S
+PI-103,X,Cancer,C19H16N4O3
+AMG-208,X,Cancer,C22H17N5O2
+torkinib,X,Cancer,C16H16N6O
+torin 2,Ezetimibe,Cancer,C24H15F3N4O
+talmapimod,Talmapimod,Cancer,C27H30ClFN4O3
+U0126.EtOH,X,Cancer,C20H22N6OS2
+U0126,X,Cancer,C18H16N6S2
+tipiracil,Tipiracil,Cancer,C9H11ClN4O2
+rolapitant hydrochloride (anhydrous),X,Cancer,C25H27ClF6N2O2
+osimertinib mesylate,Osimertinib,Cancer,C29H37N7O5S
+3-bromopyruvic acid,X,Cancer,C3H3BrO3
+rucaparib camsylate,Rucaparib,Cancer,C29H34FN3O5S
+JQ1,X,Cancer,C23H25ClN4O2S
+VPC 23019,X,Cancer,C17H29N2O5P
+rigosertib,Rigosertib,Cancer,C21H25NO8S
+CNDAC,X,Cancer,C10H12N4O4
+"3,3'-dimethylquercetin",X,Cancer,C17H14O7
+curacozole,X,Cancer,C36H36N8O6S2
+rohitukine,X,Cancer,C16H19NO5
+EG00229,X,Cancer,C17H19N7O5S3
+CP-724714,X,Cancer,C27H27N5O3
+brivanib,Brivanib,Cancer,C19H19FN4O3
+lanperisone,Lanperisone,Cancer,C15H18F3NO
+ML-210,X,Cancer,C22H20Cl2N4O4
+SM-164,X,Cancer,C62H84N14O6
+"4,5,4'-trihydroxy-3,3'-dimethoxybibenzyl",X,Cancer,C16H18O5
+repotrectinib,Repotrectinib,Cancer,C18H18FN5O2
+SMIP004,X,Cancer,C13H19NO
+riviciclib,X,Cancer,C21H20ClNO5
+fulvestrant,Fulvestrant,Cancer,C32H47F5O3S
+elaeodendroside V,X,Cancer,C35H54O16
+elaeodendroside W,X,Cancer,C35H52O16
+"5alpha,8alpha-epidioxycholest-6-en-3beta-ol",X,Cancer,C27H44O3
+7alpha-hydroperoxy manool,X,Cancer,C20H34O3
+"23,24-dimethylcholest-16(17)-E-en-3beta,5alpha,6beta,20(S)-tetrol",X,Cancer,C29H50O4
+fruticoside A,X,Cancer,C29H48O3
+(11)C-choline chloride,X,Cancer,C4[11C]H14NO.Cl
+(11)C-choline,X,Cancer,C4[11C]H14NO
+6-aminonicotinamide,X,Cancer,C6H7N3O
+(223)RaCl2,X,Cancer,Cl2[223Ra]
+MCB-613,X,Cancer,C20H20N2O
+fluciclovine ((18)F),X,Cancer,C5H8[18F]NO2
+beta-D-glucosyl salicylate,X,Cancer,C13H16O8
+CX-5461,X,Cancer,C27H27N7O2S
+ferroptocide,X,Cancer,C30H36ClN3O7
+PABA/NO,X,Cancer,C16H16N6O8
+YXG-158,X,Cancer,C30H36FN3O
+flotufolastat F-18,X,Cancer,C63H99[18F]N12O25Si
+flotufolastat F-18 gallium,X,Cancer,C63H90[18F]N12O25Si.Ga.H.H.H.H.H.H
+porfimer sodium,Porfimer,Cancer,(C32H32N4O4R)0-6.C64H64N8Na5O9R2
+GSK547,X,Cancer,C20H18F2N6O
+granisetron,Granisetron,Cancer,C18H24N4O
+lomustine,Lomustine,Cancer,C9H16ClN3O2
+gefitinib,Gefitinib,Cancer,C22H24ClFN4O3
+afatinib,Afatinib,Cancer,C24H25ClFN5O3
+histrelin acetate,Histrelin,Cancer,C70H94N18O16
+leuprolide acetate,Leuprolide,Cancer,C61H88N16O14
+crizotinib,Crizotinib,Cancer,C21H22Cl2FN5O
+abyssinone D,X,Cancer,C21H22O5
+aculeatol E,X,Cancer,C26H44O5
+ardisiphenol A,X,Cancer,C23H38O4
+ardisiphenol B,X,Cancer,C23H36O4
+ardisiphenol C,X,Cancer,C25H38O4
+cratoxyarborenone A,X,Cancer,C28H32O6
+cratoxyarborenone B,X,Cancer,C23H24O6
+cratoxyarborenone C,X,Cancer,C25H28O6
+cratoxyarborenone D,X,Cancer,C23H22O7
+cratoxyarborenone E,X,Cancer,C24H26O6
+cudratricusxanthone A,X,Cancer,C23H24O6
+elongatol A,X,Cancer,C15H24O3
+elongatol E,X,Cancer,C15H24O3
+glionitrin A,X,Cancer,C13H11N3O5S2
+"trans-2-hydroxyisoxypropyl-3-hydroxy-7-isopentene-2,3-dihydrobenzofuran-5-carboxylic acid",X,Cancer,C17H22O5
+mimosifolenone,X,Cancer,C16H18O3
+schizolaenone A,X,Cancer,C30H36O5
+schizolaenone B,X,Cancer,C30H36O6
+streptokordin,X,Cancer,C8H9NO2
+lissoclibadin 3,X,Cancer,C26H38N2O4S4
+longicalycinin A,X,Cancer,C34H37N5O6
+lyratol C,X,Cancer,C15H26O4
+maackiaflavanone A,X,Cancer,C26H28O6
+maackiaflavanone B,X,Cancer,C30H34O5
+maackiapterocarpan A,X,Cancer,C21H20O6
+macaranone A,X,Cancer,C30H34O7
+"1,5,6-trihydroxy-6',6'-dimethyl-2H-pyrano(2',3':3,4)-2-(3-methylbut-2-enyl)xanthone",X,Cancer,C23H22O6
+"1,6,7-trihydroxy-6',6'-dimethyl-2H-pyrano(2',3':3,2)-4-(3-methylbut-2-enyl)xanthone",X,Cancer,C23H22O6
+ochrocarpin A,X,Cancer,C25H24O6
+ochrocarpin B,X,Cancer,C25H24O6
+ochrocarpin C,X,Cancer,C24H22O6
+ochrocarpin D,X,Cancer,C26H26O6
+ochrocarpin E,X,Cancer,C24H24O6
+Delta(9)-tetrahydrocannabinol,X,Cancer,C21H30O2
+regorafenib,Regorafenib,Cancer,C21H15ClF4N4O3
+"5,7,3'-trihydroxy-3,5'-dimethoxy-2'-(3'-methylbut-2-enyl)flavone",X,Cancer,C22H22O7
+cabozantinib,Cabozantinib,Cancer,C28H24FN3O5
+ceritinib,Ceritinib,Cancer,C28H36ClN5O3S
+4-(methylnitrosamino)-1-(3-pyridyl)-1-butanol,X,Cancer,C10H15N3O2
+netupitant,Netupitant,Cancer,C30H32F6N4O
+palbociclib,Palbociclib,Cancer,C24H29N7O2
+rolapitant,Rolapitant,Cancer,C25H26F6N2O2
+alectinib,Alectinib,Cancer,C30H34N4O2
+osimertinib,Osimertinib,Cancer,C28H33N7O2
+"N-(5-{[(5-tert-butyl-1,3-oxazol-2-yl)methyl]sulfanyl}-1,3-thiazol-2-yl)piperidine-4-carboxamide",X,Cancer,C17H24N4O2S2
+4-(dimethylamino)-N-[7-(hydroxyamino)-7-oxoheptyl]benzamide,X,Cancer,C16H25N3O3
+rucaparib,Rucaparib,Cancer,C19H18FN3O
+dinophysistoxin 1,X,Cancer,C45H70O13
+motixafortide,Motixafortide,Cancer,C97H144FN33O19S2
+erdasporine A,X,Cancer,C22H15N3O3
+erdasporine B,X,Cancer,C22H15N3O2
+erdasporine C,X,Cancer,C22H15N3O3
+tomaymycin,X,Cancer,C16H20N2O4
+fostriecin,Fostriecin,Cancer,C19H27O9P
+SCH772984,X,Cancer,C33H33N9O2
+tesevatinib,Tesevatinib,Cancer,C24H25Cl2FN4O2
+PJ34,X,Cancer,C17H17N3O2
+FINO2,X,Cancer,C15H28O3
+niraparib,Niraparib,Cancer,C19H20N4O
+plinabulin,Plinabulin,Cancer,C19H20N4O2
+aristolochic acids,X,Cancer,C16H6NO6
+fruquintinib,Fruquintinib,Cancer,C21H19N3O5
+THZ1,X,Cancer,C31H28ClN7O2
+aprepitant,Aprepitant,Cancer,C23H21F7N4O3
+fentanyl citrate,Fentanyl,Cancer,C28H36N2O8
+ardisianoside C,X,Cancer,C47H78O16
+ardisianoside D,X,Cancer,C46H76O16
+calotropone,X,Cancer,C28H36O6
+gelomulide K,X,Cancer,C22H28O5
+glochierioside A,X,Cancer,C48H72O14
+glochierioside B,X,Cancer,C48H72O14
+tsugarioside C,X,Cancer,C38H58O8
+CD437,X,Cancer,C27H26O3
+N(2)-([biphenyl]-4-ylsulfonyl)-N-hydroxy-N(2)-isopropoxy-D-valinamide,X,Cancer,C20H26N2O5S
+MP-A08,X,Cancer,C27H25N3O4S2
+sotorasib,Sotorasib,Cancer,C30H30F2N6O3
+orteronel,Orteronel,Cancer,C18H17N3O2
+clofarabine,Clofarabine,Cancer,C10H11ClFN5O3
+alpha-L-Fucp-(1->2)-beta-D-Galp-(1->4)-[alpha-L-Fucp-(1->3)]-beta-D-GlcpNAc,X,Cancer,C26H45NO19
+ardisianoside B,X,Cancer,C64H106O31
+elaeodendroside U,X,Cancer,C29H40O9
+gelomulide M,X,Cancer,C24H30O7
+rotundifolioside A,X,Cancer,C47H76O17
+rotundifolioside H,X,Cancer,C47H76O17
+rotundifolioside I,X,Cancer,C47H76O16
+rotundifolioside J,X,Cancer,C48H78O16
+NCS172285,X,Cancer,C24H34F6O3
+rubimaillin,X,Cancer,C17H16O4
+N-glycolylneuraminyllactosylceramide,X,Cancer,C59H108N2O22
+LY-2090314,X,Cancer,C28H25FN6O3
+LY3009120,X,Cancer,C23H29FN6O
+ochrocarpin F,X,Cancer,C24H30O8
+ochrocarpin G,X,Cancer,C24H30O8
+histrelin,Histrelin,Cancer,C66H86N18O12
+leuprolide,Leuprolide,Cancer,C59H84N16O12
+neurotensin,X,Cancer,C78H121N21O20
+heroin,Diamorphine,Cancer,C21H23NO5
+phorbol 13-acetate 12-myristate,X,Cancer,C36H56O8
+amitrole,X,Cancer,C2H4N4
+saracatinib,Saracatinib,Cancer,C27H32ClN5O5
+ABT-737,X,Cancer,C42H45ClN6O5S2
+methyl 5-aminolevulinate hydrochloride,X,Cancer,C6H12ClNO3
+"8-acetoxy-4,10-dihydroxy-2,11(13)-guaiadiene-12,6-olide",X,Cancer,C17H22O6
+antroquinonol,X,Cancer,C24H38O4
+BE-23372M,X,Cancer,C17H12O6
+cladoniamide G,X,Cancer,C21H15Cl2N3O4
+"5-hydroxy-7-prop-2-en-(E)-ylidene-7,7a-dihydro- 2H-cyclopenta[b]pyran-6-one",X,Cancer,C11H10O3
+"5-hydroxy-7-prop-2-en-(Z)-ylidene-7,7a-dihydro- 2H-cyclopenta[b]pyran-6-one",X,Cancer,C11H10O3
+isowigtheone hydrate,X,Cancer,C20H20O6
+spiculoic acid A,X,Cancer,C27H36O3
+hygrolidin,X,Cancer,C37H56O11
+TOP-53,X,Cancer,C28H36N2O7
+lorlatinib,Lorlatinib,Cancer,C21H19FN6O2
+colibactin,X,Cancer,C37H38N8O7S2
+ASP-3026,X,Cancer,C29H40N8O3S
+mefuparib,X,Cancer,C17H15FN2O2
+LLY-507,X,Cancer,C36H42N6O
+elacestrant,Elacestrant,Cancer,C30H38N2O2
+capivasertib,Capivasertib,Cancer,C21H25ClN6O2
+methyl 5-aminolevulinate,X,Cancer,C6H11NO3
+ardisianoside A,X,Cancer,C70H116O36
+"beta1,4-GalNAc-disialyl-Lc4",X,Cancer,C56H92N4O42
+formestane,Formestane,Cancer,C19H26O3
+navitoclax,Navitoclax,Cancer,C47H55ClF3N5O6S3
+talazoparib,Talazoparib,Cancer,C19H14F2N6O
+actinomycin X2,X,Cancer,C62H84N12O17
+Triamcinolone acetonide,Triamcinolone,Tuberculosis,C24H31FO6
+Dexamethasone,Dexamethasone,Tuberculosis,C22H29FO5
+Dexamethasone sodium phosphate,Dexamethasone,Tuberculosis,C22H28FO8P.
+Hydrocortisone,Hydrocortisone,Tuberculosis,C21H30O5
+Hydrocortisone sodium succinate,Hydrocortisone,Tuberculosis,C25H33O8.
+Prednisolone,Prednisolone,Tuberculosis,C21H28O5
+Prednisolone sodium phosphate,Prednisolone,Tuberculosis,C21H27O8P.
+Streptomycin sulfate,Streptomycin,Tuberculosis,(C21H39N7O12)2.
+Prednisone,Prednisone,Tuberculosis,C21H26O5.
+Methylprednisolone,Methylprednisolone,Tuberculosis,C22H30O5
+Methylprednisolone acetate,Methylprednisolone,Tuberculosis,C24H32O6
+Cortisone acetate,Cortisone,Tuberculosis,C23H30O6
+Aminosalicylic acid,Aminosalicylic,Tuberculosis,C7H7NO3
+Cycloserine,Cycloserine,Tuberculosis,C3H6N2O2
+Rifampin,Rifampin,Tuberculosis,C43H58N4O12
+Rifapentine,Rifapentine,Tuberculosis,C47H64N4O12
+Capreomycin sulfate,Capreomycin,Tuberculosis,C25H43N14O7R.
+Isoniazid,Isoniazid,Tuberculosis,C6H7N3O
+Rifampin and isoniazid,Rifampin,Tuberculosis,X
+Ethionamide,Ethionamide,Tuberculosis,C8H10N2S
+Pyrazinamide,Pyrazinamide,Tuberculosis,C5H5N3O
+Ethambutol hydrochloride,Ethambutol,Tuberculosis,C10H24N2O2.
+"Rifampin, isoniazid and pyrazinamide","Rifampin,",Tuberculosis,X
+BCG vaccine,BCG,Tuberculosis,X
+Freeze-dried BCG vaccine (for percutaneous use),Freeze-dried,Tuberculosis,X
+Bedaquiline fumarate,Bedaquiline,Tuberculosis,C32H31BrN2O2.
+Pretomanid,Pretomanid,Tuberculosis,C14H12F3N3O5
+coenzyme F420-6,X,Tuberculosis,C49H64N9O30P
+dihydroxy mycolic acid,X,Tuberculosis,C82H162O4
+viomycin,Viomycin,Tuberculosis,C25H43N13O10
+beta-D-Araf-(1->2)-alpha-D-Araf-(1->5)-[beta-D-Araf-(1->2)-alpha-D-Araf-(1->3)]-alpha-D-Araf-(1->5)-alpha-D-Araf-yl group,X,Tuberculosis,C30H49O24
+mycobilin a,X,Tuberculosis,C34H34N4O7
+mycobilin b,X,Tuberculosis,C34H34N4O7
+ethambutol dihydrochloride,X,Tuberculosis,C10H26Cl2N2O2
+"beta-D-mannosyl 4,8,12,16,20-pentamethylheptacosyl phosphate",X,Tuberculosis,C38H77O9P
+sulfolipid I,X,Tuberculosis,C148H286O20S
+"beta-D-mannosyl 3,7,11,15,19,23,27,31-octamethyldotriacontyl phosphate",X,Tuberculosis,C46H93O9P
+beta-D-Araf-(1->2)-alpha-D-Araf-(1->5)-[beta-D-Araf-(1->2)-alpha-D-Araf-(1->3)]-alpha-D-Araf-(1->5)-alpha-D-Araf-OMe,X,Tuberculosis,C31H52O25
+beta-D-Araf-(1->2)-alpha-D-Araf-(1->5)-alpha-D-Araf-(1->5)-alpha-D-Araf-OMe,X,Tuberculosis,C21H36O17
+beta-D-Araf-(1->2)-alpha-D-Araf-(1->3)-alpha-D-Araf-(1->5)-alpha-D-Araf-OMe,X,Tuberculosis,C21H36O17
+desferriexochelin 772MS,X,Tuberculosis,C34H49N5O12
+desferrimycobactin T,X,Tuberculosis,C46H75N5O10
+DDM-838,X,Tuberculosis,C47H75N5O8
+"1,5-dihydrocoenzyme F420-6",X,Tuberculosis,C49H66N9O30P
+cyclo(L-tyrosyl-L-tyrosyl),X,Tuberculosis,C18H18N2O4
+carboxymycobactin,X,Tuberculosis,C29H34N5O12R3(CH2)n
+2R-2-[(1R)-1-hydroxy-16-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}hexadecyl]hexacosanoate,X,Tuberculosis,C76H147O3
+(2R)-2-[(1R)-1-hydroxy-18-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}octadecyl]tetracosanoate,X,Tuberculosis,C76H147O3
+(2R)-2-[(1R)-1-hydroxy-18-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}octadecyl]hexacosanoate,X,Tuberculosis,C78H151O3
+(2R)-2-[(1R)-1-hydroxy-20-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}icosyl]tetracosanoate,X,Tuberculosis,C78H151O3
+(2R)-2-[(1R)-1-hydroxy-20-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}icosyl]hexacosanoate,X,Tuberculosis,C80H155O3
+(2R)-2-[(1R)-1-hydroxy-18-{2-[10-(2-icosylcyclopropyl)decyl]cyclopropyl}octadecyl]hexacosanoate,X,Tuberculosis,C80H155O3
+(2R)-2-[(1R)-1-hydroxy-22-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}docosyl]hexacosanoate,X,Tuberculosis,C82H159O3
+(2R)-2-[(1R)-1-hydroxy-20-{2-[10-(2-icosylcyclopropyl)decyl]cyclopropyl}icosyl]hexacosanoate,X,Tuberculosis,C82H159O3
+(2R)-2-[(1R)-1-hydroxy-18-{2-[10-(2-nonadecylcyclopropyl)decyl]cyclopropyl}octadecyl]hexacosanoate,X,Tuberculosis,C79H153O3
+(2R)-2-[(1R)-1-hydroxy-20-{2-[10-(2-nonadecylcyclopropyl)decyl]cyclopropyl}icosyl]hexacosanoate,X,Tuberculosis,C81H157O3
+(2R)-2-[(1R)-1-hydroxy-12-{2-[14-(2-icosylcyclopropyl)tetradecyl]cyclopropyl}dodecyl]hexacosanoate,X,Tuberculosis,C78H151O3
+(2R)-2-[(1R)-1-hydroxy-14-{2-[14-(2-icosylcyclopropyl)tetradecyl]cyclopropyl}tetradecyl]hexacosanoate,X,Tuberculosis,C80H155O3
+(2R)-2-[(1R)-1-hydroxy-18-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}octadecyl]tetracosanoic acid,X,Tuberculosis,C76H148O3
+(2R)-2-[(1R)-1-hydroxy-18-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}octadecyl]hexacosanoic acid,X,Tuberculosis,C78H152O3
+(2R)-2-[(1R)-1-hydroxy-16-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}hexadecyl]hexacosanoic acid,X,Tuberculosis,C76H148O3
+(2R)-2-[(1R)-1-hydroxy-20-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}icosyl]tetracosanoic acid,X,Tuberculosis,C78H152O3
+(2R)-2-[(1R)-1-hydroxy-20-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}icosyl]hexacosanoic acid,X,Tuberculosis,C80H156O3
+(2R)-2-[(1R)-1-hydroxy-18-{2-[10-(2-icosylcyclopropyl)decyl]cyclopropyl}octadecyl]hexacosanoic acid,X,Tuberculosis,C80H156O3
+(2R)-2-[(1R)-1-hydroxy-22-{2-[10-(2-octadecylcyclopropyl)decyl]cyclopropyl}docosyl]hexacosanoic acid,X,Tuberculosis,C82H160O3
+(2R)-2-[(1R)-1-hydroxy-20-{2-[10-(2-icosylcyclopropyl)decyl]cyclopropyl}icosyl]hexacosanoic acid,X,Tuberculosis,C82H160O3
+(2R)-2-[(1R)-1-hydroxy-18-{2-[10-(2-nonadecylcyclopropyl)decyl]cyclopropyl}octadecyl]hexacosanoic acid,X,Tuberculosis,C79H154O3
+(2R)-2-[(1R)-1-hydroxy-20-{2-[10-(2-nonadecylcyclopropyl)decyl]cyclopropyl}icosyl]hexacosanoic acid,X,Tuberculosis,C81H158O3
+(2R)-2-[(1R)-1-hydroxy-12-{2-[14-(2-icosylcyclopropyl)tetradecyl]cyclopropyl}dodecyl]hexacosanoic acid,X,Tuberculosis,C78H152O3
+(2R)-2-[(1R)-1-hydroxy-14-{2-[14-(2-icosylcyclopropyl)tetradecyl]cyclopropyl}tetradecyl]hexacosanoic acid,X,Tuberculosis,C80H156O3
+(21E)-3-hydroxy-35-[(icosan-2-yl)oxy]-35-oxo-2-pentacosylpentatriacont-21-enoic acid,X,Tuberculosis,C80H156O5
+methoxy mycolic acid,X,Tuberculosis,C83H164O4
+keto mycolic acid,X,Tuberculosis,C82H160O4
+alpha-mycolic acid,X,Tuberculosis,C80H156O3
+S881,X,Tuberculosis,C55H79O6S
+ethambutol,Ethambutol,Tuberculosis,C10H24N2O2
+pyrazinecarboxamide,X,Tuberculosis,C5H5N3O
+bedaquiline,Bedaquiline,Tuberculosis,C32H31BrN2O2
+bedaquiline fumarate,Bedaquiline,Tuberculosis,C36H35BrN2O6
+levesquamide,X,Tuberculosis,C28H34N6O9S
+beta-D-Araf-(1->2)-alpha-D-Araf-(1->5)-alpha-D-Araf-(1->5)-alpha-D-Araf,X,Tuberculosis,C20H34O17
+keto-meromycolic acid,X,Tuberculosis,C81H158O4
+(2R)-2-[(1R)-14-{2-[(15Z)-hexatriacont-15-en-1-yl]cyclopropyl}-1-hydroxytetradecyl]hexacosanoate,X,Tuberculosis,C79H153O3
+(2R)-2-[(1R)-14-{2-[(15Z)-hexatriacont-15-en-1-yl]cyclopropyl}-1-hydroxytetradecyl]hexacosanoic acid,X,Tuberculosis,C79H154O3
+(2R)-2-{(1R)-1-hydroxy-15-[2-(20-methoxy-21-methylnonatriacontyl)cyclopropyl]pentadecyl}hexacosanoic acid,X,Tuberculosis,C85H168O4
+[2-(alpha-D-mannopyranosylthio)ethanimidoyl]amino group,X,Tuberculosis,C8H15N2O5S
+{2-[(6-O-alpha-D-mannopyranosyl-alpha-D-mannopyranosyl)thio]ethanimidoyl}amino group,X,Tuberculosis,C14H25N2O10S
+{2-[(6-O-alpha-D-arabinofuranosyl-alpha-D-mannopyranosyl)thio]ethanimidoyl}amino group,X,Tuberculosis,C13H23N2O9S
+alpha-D-Xylf5SMe-(1->4)-alpha-D-Manp-(1->2)-alpha-D-Manp-yl group,X,Tuberculosis,C18H31O13S
+edaxadiene,X,Tuberculosis,C20H34O
+viridicatin,X,Tuberculosis,C15H11NO2
+C80 mycolic acid,X,Tuberculosis,C80H156O3
+beta-D-Araf-(1->2)-alpha-D-Araf-(1->5)-alpha-D-Araf-(1->5)-alpha-D-Araf-yl group,X,Tuberculosis,C20H33O16
+beta-D-Araf-(1->2)-alpha-D-Araf-(1->3)-[beta-D-Araf-(1->2)-alpha-D-Araf-(1->5)]-alpha-D-Araf-(1->5)-alpha-D-Araf,X,Tuberculosis,C30H50O25
+D-cycloserine,X,Tuberculosis,C3H6N2O2
+Aspirin,Aspirin,Heart Attack,C9H8O4
+Clopidogrel bisulfate,Clopidogrel,Heart Attack,C16H16ClNO2S.
+Prasugrel hydrochloride,Prasugrel,Heart Attack,C20H20FNO3S.
+Ticagrelor,Ticagrelor,Heart Attack,C23H28F2N6O4S
+Cangrelor tetrasodium,Cangrelor,Heart Attack,C17H21Cl2F3N5O12P3S2.
+Vorapaxar sulfate,Vorapaxar,Heart Attack,C29H33FN2O4.
+Reteplase,Reteplase,Heart Attack,C1736H2653N499O522S22
+Norepinephrine bitartrate,Norepinephrine,Heart Attack,C8H11NO3.
+Dopamine hydrochloride,Dopamine,Heart Attack,C8H11NO2.
+Nitroglycerin,Nitroglycerin,Heart Attack,C3H5N3O9
+Niacin,Niacin,Heart Attack,C6H5NO2
+Propranolol hydrochloride,Propranolol,Heart Attack,C16H21NO2.
+Metoprolol tartrate,Metoprolol,Heart Attack,(C15H25NO3)2.
+Atenolol,Atenolol,Heart Attack,C14H22N2O3
+Lovastatin,Lovastatin,Heart Attack,C24H36O5
+Atorvastatin calcium,Atorvastatin,Heart Attack,(C33H34FN2O5)2.
+Alirocumab,Alirocumab,Heart Attack,C6472H9996N1736O2032S42
+(S)-timolol (anhydrous),X,Heart Attack,C13H24N4O3S
+timolol,Timolol,Heart Attack,C13H24N4O3S
+meldonium,Meldonium,Heart Attack,C6H14N2O2
+enalapril maleate,Enalapril,Heart Attack,C24H32N2O9
+enalaprilat (anhydrous),X,Heart Attack,C18H24N2O5
+heroin,Diamorphine,Heart Attack,C21H23NO5
+enalaprilat dihydrate,Enalaprilat,Heart Attack,C18H28N2O7
+vorapaxar,Vorapaxar,Heart Attack,C29H33FN2O4
+vorapaxar sulfate,Vorapaxar,Heart Attack,C29H35FN2O8S
+heptanoate,X,Heart Attack,C7H13O2
+molsidomine,Molsidomine,Heart Attack,C9H14N4O4
+caulophine,X,Heart Attack,C19H21NO5

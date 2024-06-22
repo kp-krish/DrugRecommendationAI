@@ -1,0 +1,9 @@
+[
+    Drugs:{
+    *'drugName':'',
+    *'genaricName':'',
+    rating:'',
+    *comp:'',
+    desc:'',
+    *disease:'',
+}]
